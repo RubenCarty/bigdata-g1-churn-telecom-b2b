@@ -1,0 +1,5001 @@
+company_id,churn,motivo_abandono,risk_score
+1,0,Permanece,56.67
+2,0,Permanece,36.67
+3,0,Permanece,56.97
+4,0,Permanece,50.6
+5,0,Permanece,59.43
+6,0,Permanece,50.37
+7,1,Precio,77.03
+8,0,Permanece,17.56
+9,0,Permanece,15.76
+10,0,Permanece,25.22
+11,0,Permanece,11.24
+12,0,Permanece,27.3
+13,0,Permanece,17.92
+14,0,Permanece,45.51
+15,0,Permanece,39.02
+16,0,Permanece,20.43
+17,0,Permanece,48.64
+18,0,Permanece,22.67
+19,0,Permanece,37.05
+20,0,Permanece,3.69
+21,0,Permanece,27.44
+22,1,Competencia,91.36
+23,0,Permanece,24.81
+24,0,Permanece,50.73
+25,0,Permanece,31.12
+26,0,Permanece,19.01
+27,0,Permanece,40.39
+28,0,Permanece,4.76
+29,0,Permanece,25.87
+30,0,Permanece,43.32
+31,0,Permanece,2.39
+32,0,Permanece,43.78
+33,0,Permanece,30.21
+34,0,Permanece,5.17
+35,0,Permanece,41.35
+36,0,Permanece,47.09
+37,0,Permanece,16.45
+38,1,Competencia,97.84
+39,1,Precio,99.18
+40,0,Permanece,10.42
+41,0,Permanece,19.54
+42,0,Permanece,8.83
+43,0,Permanece,37.53
+44,0,Permanece,29.48
+45,1,Cambio tecnológico,71.59
+46,0,Permanece,46.3
+47,0,Permanece,21.14
+48,1,Fusión empresarial,91.9
+49,0,Permanece,29.25
+50,0,Permanece,41.2
+51,0,Permanece,45.99
+52,0,Permanece,12.72
+53,0,Permanece,53.43
+54,0,Permanece,19.3
+55,0,Permanece,18.05
+56,0,Permanece,31.2
+57,0,Permanece,25.36
+58,0,Permanece,31.16
+59,1,Competencia,93.56
+60,0,Permanece,11.37
+61,0,Permanece,35.9
+62,0,Permanece,52.34
+63,0,Permanece,25.23
+64,0,Permanece,57.28
+65,1,Precio,75.52
+66,0,Permanece,56.27
+67,0,Permanece,8.95
+68,0,Permanece,40.06
+69,0,Permanece,17.5
+70,0,Permanece,42.99
+71,0,Permanece,0.01
+72,1,Cambio tecnológico,88.92
+73,0,Permanece,30.46
+74,0,Permanece,46.07
+75,0,Permanece,23.87
+76,0,Permanece,12.5
+77,0,Permanece,22.17
+78,0,Permanece,13.07
+79,0,Permanece,17.49
+80,0,Permanece,24.91
+81,0,Permanece,47.59
+82,0,Permanece,48.81
+83,0,Permanece,52.77
+84,0,Permanece,14.92
+85,1,Precio,71.84
+86,1,Cambio tecnológico,99.75
+87,0,Permanece,0.82
+88,0,Permanece,37.29
+89,0,Permanece,53.19
+90,0,Permanece,8.62
+91,0,Permanece,50.29
+92,1,Fusión empresarial,75.08
+93,0,Permanece,36.7
+94,0,Permanece,59.58
+95,0,Permanece,42.73
+96,0,Permanece,26.97
+97,0,Permanece,53.71
+98,0,Permanece,33.88
+99,0,Permanece,16.14
+100,0,Permanece,58.48
+101,0,Permanece,31.49
+102,0,Permanece,29.63
+103,0,Permanece,30.66
+104,0,Permanece,51.59
+105,0,Permanece,36.14
+106,0,Permanece,38.83
+107,1,Fusión empresarial,82.22
+108,0,Permanece,19.08
+109,1,Calidad de servicio,94.77
+110,0,Permanece,43.05
+111,0,Permanece,27.49
+112,0,Permanece,4.32
+113,0,Permanece,3.1
+114,0,Permanece,1.19
+115,0,Permanece,48.95
+116,0,Permanece,54.97
+117,0,Permanece,14.3
+118,0,Permanece,12.48
+119,0,Permanece,58.88
+120,1,Calidad de servicio,87.12
+121,1,Precio,81.56
+122,0,Permanece,2.3
+123,0,Permanece,53.82
+124,0,Permanece,19.62
+125,1,Fusión empresarial,74.23
+126,1,Competencia,89.83
+127,0,Permanece,57.31
+128,0,Permanece,35.75
+129,0,Permanece,14.57
+130,0,Permanece,38.67
+131,0,Permanece,23.38
+132,0,Permanece,56.11
+133,0,Permanece,55.69
+134,1,Competencia,75.83
+135,1,Fusión empresarial,74.61
+136,0,Permanece,25.09
+137,0,Permanece,5.45
+138,0,Permanece,27.17
+139,0,Permanece,47.91
+140,0,Permanece,59.55
+141,0,Permanece,47.98
+142,0,Permanece,4.12
+143,1,Competencia,78.9
+144,0,Permanece,5.24
+145,0,Permanece,30.78
+146,0,Permanece,37.4
+147,0,Permanece,57.22
+148,0,Permanece,39.72
+149,0,Permanece,36.72
+150,1,Fusión empresarial,94.22
+151,0,Permanece,45.39
+152,0,Permanece,38.86
+153,0,Permanece,22.78
+154,0,Permanece,2.15
+155,0,Permanece,27.35
+156,0,Permanece,36.77
+157,0,Permanece,43.58
+158,1,Calidad de servicio,77.63
+159,0,Permanece,27.39
+160,0,Permanece,34.2
+161,0,Permanece,15.02
+162,0,Permanece,47.57
+163,0,Permanece,23.51
+164,0,Permanece,31.73
+165,0,Permanece,45.45
+166,0,Permanece,2.04
+167,0,Permanece,58.3
+168,1,Competencia,93.05
+169,0,Permanece,52.48
+170,0,Permanece,53.82
+171,0,Permanece,40.72
+172,0,Permanece,32.18
+173,1,Precio,72.46
+174,0,Permanece,55.06
+175,1,Precio,75.37
+176,0,Permanece,0.97
+177,0,Permanece,43.35
+178,0,Permanece,50.9
+179,0,Permanece,10.7
+180,0,Permanece,4.77
+181,0,Permanece,29.01
+182,0,Permanece,6.02
+183,0,Permanece,31.12
+184,0,Permanece,24.74
+185,0,Permanece,56.63
+186,0,Permanece,54.07
+187,0,Permanece,12.68
+188,0,Permanece,13.17
+189,1,Competencia,87.17
+190,0,Permanece,7.36
+191,0,Permanece,5.92
+192,0,Permanece,6.9
+193,0,Permanece,16.75
+194,0,Permanece,15.23
+195,0,Permanece,17.74
+196,0,Permanece,21.34
+197,0,Permanece,32.74
+198,0,Permanece,29.32
+199,0,Permanece,8.57
+200,0,Permanece,40.61
+201,0,Permanece,20.2
+202,0,Permanece,2.13
+203,0,Permanece,10.97
+204,1,Fusión empresarial,78.17
+205,0,Permanece,37.7
+206,0,Permanece,57.33
+207,0,Permanece,6.06
+208,0,Permanece,8.06
+209,0,Permanece,42.49
+210,0,Permanece,4.07
+211,0,Permanece,16.64
+212,0,Permanece,56.57
+213,0,Permanece,15.24
+214,0,Permanece,29.75
+215,0,Permanece,6.2
+216,0,Permanece,8.92
+217,0,Permanece,55.8
+218,0,Permanece,31.71
+219,1,Calidad de servicio,87.11
+220,0,Permanece,12.91
+221,0,Permanece,18.27
+222,1,Cambio tecnológico,89.52
+223,0,Permanece,16.95
+224,1,Competencia,79.16
+225,1,Competencia,78.95
+226,0,Permanece,36.85
+227,0,Permanece,20.96
+228,0,Permanece,34.82
+229,0,Permanece,47.54
+230,0,Permanece,7.24
+231,0,Permanece,9.17
+232,0,Permanece,53.89
+233,0,Permanece,37.31
+234,0,Permanece,17.73
+235,1,Competencia,74.05
+236,0,Permanece,18.95
+237,0,Permanece,38.77
+238,1,Precio,94.17
+239,0,Permanece,41.31
+240,0,Permanece,23.34
+241,0,Permanece,27.13
+242,0,Permanece,15.94
+243,1,Cambio tecnológico,93.12
+244,0,Permanece,30.49
+245,0,Permanece,9.51
+246,0,Permanece,36.44
+247,1,Calidad de servicio,78.21
+248,0,Permanece,23.77
+249,0,Permanece,27.03
+250,0,Permanece,22.7
+251,0,Permanece,51.66
+252,0,Permanece,53.14
+253,0,Permanece,20.4
+254,0,Permanece,27.69
+255,0,Permanece,0.41
+256,1,Calidad de servicio,93.71
+257,0,Permanece,42.13
+258,1,Calidad de servicio,85.58
+259,0,Permanece,13.32
+260,0,Permanece,54.51
+261,0,Permanece,5.8
+262,0,Permanece,10.03
+263,1,Cambio tecnológico,98.25
+264,0,Permanece,50.8
+265,0,Permanece,37.3
+266,0,Permanece,50.2
+267,0,Permanece,9.0
+268,0,Permanece,51.0
+269,0,Permanece,17.61
+270,0,Permanece,9.89
+271,0,Permanece,12.47
+272,0,Permanece,12.82
+273,0,Permanece,38.87
+274,0,Permanece,17.58
+275,0,Permanece,30.45
+276,0,Permanece,36.65
+277,0,Permanece,48.49
+278,0,Permanece,21.43
+279,0,Permanece,21.35
+280,0,Permanece,11.55
+281,1,Cambio tecnológico,95.94
+282,0,Permanece,11.83
+283,0,Permanece,57.51
+284,0,Permanece,9.17
+285,0,Permanece,56.55
+286,0,Permanece,44.61
+287,1,Fusión empresarial,75.55
+288,1,Cambio tecnológico,98.13
+289,0,Permanece,51.24
+290,1,Cambio tecnológico,97.59
+291,0,Permanece,55.0
+292,1,Calidad de servicio,92.18
+293,0,Permanece,11.84
+294,1,Precio,98.12
+295,0,Permanece,10.05
+296,1,Calidad de servicio,78.91
+297,1,Precio,79.25
+298,1,Calidad de servicio,91.83
+299,0,Permanece,11.72
+300,0,Permanece,52.24
+301,0,Permanece,50.78
+302,0,Permanece,22.65
+303,0,Permanece,28.36
+304,0,Permanece,57.35
+305,0,Permanece,6.24
+306,1,Cambio tecnológico,70.82
+307,0,Permanece,54.19
+308,0,Permanece,28.46
+309,0,Permanece,8.16
+310,0,Permanece,49.8
+311,0,Permanece,43.43
+312,0,Permanece,15.14
+313,0,Permanece,52.15
+314,0,Permanece,58.93
+315,0,Permanece,18.07
+316,1,Fusión empresarial,77.51
+317,0,Permanece,54.21
+318,1,Fusión empresarial,73.45
+319,0,Permanece,38.98
+320,0,Permanece,39.44
+321,0,Permanece,51.35
+322,0,Permanece,18.22
+323,1,Precio,93.26
+324,0,Permanece,39.36
+325,0,Permanece,11.83
+326,0,Permanece,14.49
+327,0,Permanece,39.95
+328,1,Cambio tecnológico,71.92
+329,0,Permanece,33.97
+330,1,Fusión empresarial,97.28
+331,0,Permanece,34.77
+332,1,Competencia,93.62
+333,0,Permanece,21.01
+334,0,Permanece,43.19
+335,0,Permanece,57.91
+336,0,Permanece,48.14
+337,0,Permanece,1.85
+338,0,Permanece,41.11
+339,0,Permanece,46.29
+340,0,Permanece,6.86
+341,1,Calidad de servicio,86.82
+342,1,Cambio tecnológico,88.88
+343,0,Permanece,33.6
+344,0,Permanece,39.98
+345,0,Permanece,29.95
+346,0,Permanece,57.51
+347,0,Permanece,28.93
+348,0,Permanece,48.19
+349,1,Cambio tecnológico,96.23
+350,0,Permanece,31.85
+351,0,Permanece,35.91
+352,1,Competencia,86.68
+353,0,Permanece,34.5
+354,0,Permanece,57.8
+355,0,Permanece,39.64
+356,0,Permanece,11.11
+357,0,Permanece,32.62
+358,0,Permanece,32.79
+359,0,Permanece,50.73
+360,0,Permanece,48.2
+361,0,Permanece,51.1
+362,0,Permanece,27.21
+363,0,Permanece,55.67
+364,0,Permanece,16.97
+365,0,Permanece,4.29
+366,0,Permanece,21.42
+367,0,Permanece,39.59
+368,0,Permanece,58.31
+369,0,Permanece,0.38
+370,0,Permanece,30.76
+371,1,Calidad de servicio,72.52
+372,0,Permanece,13.34
+373,0,Permanece,19.61
+374,0,Permanece,58.02
+375,0,Permanece,59.44
+376,0,Permanece,34.43
+377,0,Permanece,55.04
+378,0,Permanece,15.45
+379,0,Permanece,31.26
+380,0,Permanece,21.1
+381,0,Permanece,20.33
+382,1,Calidad de servicio,88.9
+383,0,Permanece,57.01
+384,0,Permanece,31.53
+385,0,Permanece,42.89
+386,0,Permanece,48.18
+387,0,Permanece,38.86
+388,0,Permanece,39.87
+389,0,Permanece,21.68
+390,0,Permanece,2.0
+391,0,Permanece,33.12
+392,0,Permanece,19.2
+393,1,Fusión empresarial,86.77
+394,0,Permanece,8.09
+395,0,Permanece,44.62
+396,0,Permanece,9.41
+397,0,Permanece,33.19
+398,0,Permanece,45.97
+399,0,Permanece,16.2
+400,1,Cambio tecnológico,72.46
+401,0,Permanece,23.04
+402,0,Permanece,44.89
+403,1,Competencia,80.63
+404,0,Permanece,48.28
+405,1,Calidad de servicio,98.97
+406,0,Permanece,9.05
+407,0,Permanece,28.18
+408,0,Permanece,15.99
+409,0,Permanece,14.1
+410,0,Permanece,8.41
+411,0,Permanece,1.76
+412,0,Permanece,6.49
+413,1,Cambio tecnológico,78.36
+414,0,Permanece,17.11
+415,0,Permanece,1.44
+416,0,Permanece,29.13
+417,0,Permanece,47.79
+418,0,Permanece,5.34
+419,0,Permanece,14.04
+420,1,Calidad de servicio,95.36
+421,0,Permanece,31.53
+422,0,Permanece,56.67
+423,1,Fusión empresarial,72.62
+424,0,Permanece,25.02
+425,0,Permanece,35.37
+426,1,Calidad de servicio,94.43
+427,1,Fusión empresarial,94.47
+428,0,Permanece,23.56
+429,0,Permanece,49.8
+430,0,Permanece,42.37
+431,0,Permanece,28.86
+432,0,Permanece,7.75
+433,0,Permanece,55.58
+434,0,Permanece,56.69
+435,0,Permanece,5.92
+436,0,Permanece,52.62
+437,1,Competencia,91.77
+438,0,Permanece,45.14
+439,0,Permanece,44.07
+440,0,Permanece,26.62
+441,0,Permanece,51.22
+442,0,Permanece,55.99
+443,1,Competencia,85.14
+444,0,Permanece,11.35
+445,0,Permanece,33.56
+446,1,Calidad de servicio,99.99
+447,1,Fusión empresarial,93.87
+448,0,Permanece,26.21
+449,0,Permanece,20.26
+450,0,Permanece,39.17
+451,0,Permanece,38.82
+452,1,Competencia,91.62
+453,0,Permanece,3.36
+454,0,Permanece,32.24
+455,1,Competencia,71.1
+456,0,Permanece,9.84
+457,0,Permanece,32.56
+458,0,Permanece,21.25
+459,0,Permanece,37.88
+460,1,Precio,75.74
+461,0,Permanece,58.42
+462,0,Permanece,51.31
+463,0,Permanece,41.55
+464,1,Cambio tecnológico,94.21
+465,0,Permanece,11.94
+466,0,Permanece,18.05
+467,0,Permanece,13.02
+468,0,Permanece,1.49
+469,0,Permanece,22.7
+470,0,Permanece,12.41
+471,0,Permanece,46.98
+472,0,Permanece,23.69
+473,0,Permanece,44.8
+474,0,Permanece,28.96
+475,1,Cambio tecnológico,97.18
+476,0,Permanece,26.31
+477,0,Permanece,26.56
+478,0,Permanece,35.98
+479,0,Permanece,59.92
+480,0,Permanece,17.17
+481,0,Permanece,44.63
+482,0,Permanece,9.14
+483,0,Permanece,48.87
+484,0,Permanece,57.35
+485,0,Permanece,1.27
+486,0,Permanece,56.72
+487,0,Permanece,47.73
+488,0,Permanece,30.47
+489,0,Permanece,40.17
+490,0,Permanece,44.93
+491,0,Permanece,37.69
+492,1,Cambio tecnológico,88.78
+493,1,Fusión empresarial,72.62
+494,0,Permanece,36.48
+495,0,Permanece,55.52
+496,1,Cambio tecnológico,70.03
+497,1,Fusión empresarial,98.0
+498,1,Calidad de servicio,85.44
+499,0,Permanece,0.52
+500,0,Permanece,20.09
+501,0,Permanece,46.32
+502,0,Permanece,37.51
+503,1,Competencia,79.06
+504,0,Permanece,10.03
+505,1,Calidad de servicio,78.21
+506,0,Permanece,46.95
+507,0,Permanece,43.84
+508,0,Permanece,10.67
+509,1,Cambio tecnológico,90.57
+510,0,Permanece,23.6
+511,0,Permanece,5.87
+512,1,Competencia,78.84
+513,1,Cambio tecnológico,92.9
+514,0,Permanece,25.13
+515,0,Permanece,19.89
+516,0,Permanece,30.95
+517,0,Permanece,23.21
+518,1,Competencia,76.3
+519,0,Permanece,30.85
+520,0,Permanece,48.22
+521,0,Permanece,55.94
+522,0,Permanece,23.74
+523,1,Competencia,89.77
+524,0,Permanece,39.54
+525,0,Permanece,39.69
+526,0,Permanece,43.89
+527,0,Permanece,49.32
+528,0,Permanece,24.68
+529,0,Permanece,53.94
+530,0,Permanece,40.39
+531,0,Permanece,18.66
+532,1,Calidad de servicio,89.5
+533,0,Permanece,20.37
+534,0,Permanece,47.0
+535,0,Permanece,21.51
+536,0,Permanece,30.67
+537,0,Permanece,37.23
+538,0,Permanece,51.21
+539,0,Permanece,19.01
+540,0,Permanece,11.42
+541,0,Permanece,44.93
+542,0,Permanece,12.25
+543,0,Permanece,36.43
+544,0,Permanece,49.5
+545,0,Permanece,56.21
+546,0,Permanece,20.19
+547,0,Permanece,52.87
+548,0,Permanece,11.64
+549,0,Permanece,9.58
+550,1,Cambio tecnológico,85.18
+551,0,Permanece,16.48
+552,0,Permanece,33.5
+553,0,Permanece,49.88
+554,0,Permanece,46.46
+555,0,Permanece,26.81
+556,0,Permanece,23.06
+557,0,Permanece,42.08
+558,0,Permanece,23.55
+559,0,Permanece,8.96
+560,0,Permanece,30.29
+561,0,Permanece,48.68
+562,0,Permanece,26.47
+563,0,Permanece,57.91
+564,0,Permanece,10.27
+565,1,Fusión empresarial,81.85
+566,0,Permanece,9.13
+567,0,Permanece,10.17
+568,0,Permanece,12.64
+569,0,Permanece,13.28
+570,0,Permanece,33.81
+571,0,Permanece,49.6
+572,0,Permanece,30.55
+573,0,Permanece,12.82
+574,1,Cambio tecnológico,90.31
+575,0,Permanece,55.78
+576,1,Cambio tecnológico,80.18
+577,0,Permanece,55.8
+578,1,Precio,99.08
+579,1,Competencia,89.58
+580,1,Cambio tecnológico,87.77
+581,0,Permanece,39.41
+582,0,Permanece,45.29
+583,0,Permanece,23.6
+584,0,Permanece,59.94
+585,0,Permanece,19.23
+586,0,Permanece,6.61
+587,0,Permanece,57.06
+588,0,Permanece,18.68
+589,0,Permanece,12.47
+590,0,Permanece,24.08
+591,0,Permanece,48.98
+592,0,Permanece,27.59
+593,0,Permanece,50.26
+594,0,Permanece,36.49
+595,0,Permanece,9.4
+596,0,Permanece,16.82
+597,0,Permanece,21.62
+598,0,Permanece,36.36
+599,0,Permanece,35.77
+600,0,Permanece,10.59
+601,0,Permanece,43.92
+602,0,Permanece,43.42
+603,1,Precio,80.36
+604,1,Precio,72.83
+605,0,Permanece,29.73
+606,0,Permanece,31.93
+607,0,Permanece,32.45
+608,0,Permanece,57.91
+609,0,Permanece,40.34
+610,0,Permanece,0.75
+611,0,Permanece,58.2
+612,0,Permanece,14.22
+613,0,Permanece,10.4
+614,1,Precio,88.42
+615,0,Permanece,47.16
+616,0,Permanece,2.71
+617,0,Permanece,20.59
+618,1,Competencia,81.34
+619,1,Cambio tecnológico,93.31
+620,0,Permanece,43.21
+621,1,Calidad de servicio,75.53
+622,0,Permanece,8.39
+623,0,Permanece,40.45
+624,1,Competencia,77.69
+625,1,Calidad de servicio,97.25
+626,0,Permanece,36.2
+627,0,Permanece,28.74
+628,0,Permanece,6.34
+629,0,Permanece,21.46
+630,0,Permanece,39.74
+631,0,Permanece,40.55
+632,0,Permanece,55.73
+633,0,Permanece,6.46
+634,1,Fusión empresarial,83.93
+635,0,Permanece,51.44
+636,0,Permanece,33.83
+637,0,Permanece,59.78
+638,1,Calidad de servicio,80.41
+639,0,Permanece,39.57
+640,0,Permanece,41.47
+641,0,Permanece,7.76
+642,1,Precio,97.53
+643,1,Precio,98.96
+644,0,Permanece,37.92
+645,0,Permanece,4.75
+646,0,Permanece,9.42
+647,0,Permanece,12.88
+648,1,Competencia,70.89
+649,0,Permanece,41.1
+650,0,Permanece,55.24
+651,0,Permanece,12.79
+652,0,Permanece,18.46
+653,0,Permanece,57.73
+654,1,Cambio tecnológico,74.59
+655,0,Permanece,2.23
+656,0,Permanece,5.38
+657,0,Permanece,40.59
+658,0,Permanece,22.95
+659,0,Permanece,26.95
+660,0,Permanece,10.34
+661,0,Permanece,37.31
+662,1,Competencia,99.67
+663,0,Permanece,11.99
+664,0,Permanece,37.18
+665,0,Permanece,6.47
+666,1,Fusión empresarial,99.38
+667,0,Permanece,32.25
+668,0,Permanece,16.08
+669,0,Permanece,36.34
+670,0,Permanece,15.11
+671,0,Permanece,2.52
+672,0,Permanece,1.84
+673,1,Competencia,94.37
+674,0,Permanece,10.84
+675,0,Permanece,26.5
+676,0,Permanece,31.68
+677,0,Permanece,31.74
+678,0,Permanece,35.22
+679,0,Permanece,36.46
+680,0,Permanece,34.12
+681,1,Precio,79.97
+682,0,Permanece,44.32
+683,0,Permanece,10.13
+684,0,Permanece,48.06
+685,0,Permanece,27.77
+686,1,Fusión empresarial,93.83
+687,1,Calidad de servicio,95.85
+688,0,Permanece,8.49
+689,0,Permanece,10.78
+690,0,Permanece,28.93
+691,0,Permanece,30.68
+692,0,Permanece,57.98
+693,0,Permanece,25.22
+694,0,Permanece,0.07
+695,0,Permanece,28.6
+696,1,Fusión empresarial,74.62
+697,1,Cambio tecnológico,98.93
+698,0,Permanece,49.23
+699,0,Permanece,52.48
+700,1,Fusión empresarial,72.49
+701,1,Precio,82.7
+702,0,Permanece,6.26
+703,0,Permanece,23.64
+704,0,Permanece,37.93
+705,1,Cambio tecnológico,81.57
+706,0,Permanece,9.63
+707,0,Permanece,25.43
+708,1,Competencia,74.93
+709,0,Permanece,24.33
+710,0,Permanece,41.35
+711,0,Permanece,8.58
+712,0,Permanece,42.68
+713,0,Permanece,19.62
+714,0,Permanece,48.7
+715,1,Fusión empresarial,71.55
+716,0,Permanece,57.07
+717,0,Permanece,59.54
+718,0,Permanece,49.91
+719,0,Permanece,39.39
+720,0,Permanece,45.03
+721,0,Permanece,59.48
+722,0,Permanece,2.47
+723,1,Calidad de servicio,84.75
+724,0,Permanece,43.73
+725,0,Permanece,10.73
+726,0,Permanece,1.75
+727,0,Permanece,55.2
+728,1,Cambio tecnológico,73.1
+729,0,Permanece,29.78
+730,0,Permanece,42.72
+731,0,Permanece,29.04
+732,0,Permanece,15.84
+733,0,Permanece,12.11
+734,0,Permanece,31.26
+735,0,Permanece,56.68
+736,1,Calidad de servicio,93.91
+737,0,Permanece,9.58
+738,0,Permanece,16.56
+739,0,Permanece,11.23
+740,0,Permanece,25.44
+741,0,Permanece,59.77
+742,0,Permanece,59.63
+743,0,Permanece,29.96
+744,0,Permanece,33.22
+745,0,Permanece,22.72
+746,0,Permanece,56.01
+747,1,Calidad de servicio,81.5
+748,1,Precio,84.89
+749,1,Calidad de servicio,97.74
+750,0,Permanece,32.76
+751,0,Permanece,43.41
+752,0,Permanece,32.35
+753,0,Permanece,13.02
+754,0,Permanece,50.65
+755,0,Permanece,29.09
+756,0,Permanece,16.81
+757,0,Permanece,47.16
+758,0,Permanece,26.67
+759,0,Permanece,4.46
+760,1,Competencia,91.67
+761,0,Permanece,23.68
+762,0,Permanece,55.91
+763,0,Permanece,51.96
+764,1,Fusión empresarial,91.29
+765,0,Permanece,59.87
+766,0,Permanece,18.64
+767,0,Permanece,56.82
+768,1,Fusión empresarial,84.24
+769,0,Permanece,18.21
+770,0,Permanece,57.07
+771,1,Fusión empresarial,94.02
+772,0,Permanece,14.53
+773,0,Permanece,24.75
+774,1,Precio,72.47
+775,0,Permanece,20.27
+776,0,Permanece,40.86
+777,0,Permanece,5.07
+778,0,Permanece,5.19
+779,1,Cambio tecnológico,95.92
+780,1,Precio,89.83
+781,1,Precio,83.49
+782,0,Permanece,5.23
+783,0,Permanece,4.44
+784,0,Permanece,16.65
+785,0,Permanece,47.32
+786,1,Competencia,78.23
+787,1,Precio,95.13
+788,1,Precio,80.85
+789,0,Permanece,57.54
+790,0,Permanece,12.34
+791,0,Permanece,37.67
+792,0,Permanece,33.12
+793,0,Permanece,14.82
+794,0,Permanece,32.31
+795,0,Permanece,49.81
+796,0,Permanece,16.8
+797,0,Permanece,45.39
+798,0,Permanece,22.64
+799,0,Permanece,15.75
+800,0,Permanece,42.82
+801,0,Permanece,37.87
+802,0,Permanece,7.24
+803,0,Permanece,39.61
+804,1,Calidad de servicio,74.47
+805,1,Competencia,99.09
+806,0,Permanece,10.75
+807,0,Permanece,41.04
+808,1,Precio,87.97
+809,0,Permanece,28.5
+810,0,Permanece,26.38
+811,0,Permanece,10.42
+812,0,Permanece,26.11
+813,0,Permanece,54.21
+814,1,Competencia,82.93
+815,0,Permanece,52.28
+816,0,Permanece,15.4
+817,0,Permanece,15.65
+818,0,Permanece,3.2
+819,0,Permanece,4.71
+820,0,Permanece,42.41
+821,0,Permanece,46.61
+822,0,Permanece,12.11
+823,1,Precio,78.14
+824,1,Fusión empresarial,87.3
+825,0,Permanece,52.72
+826,0,Permanece,36.9
+827,0,Permanece,16.7
+828,0,Permanece,31.38
+829,0,Permanece,35.94
+830,1,Competencia,77.31
+831,0,Permanece,10.43
+832,1,Calidad de servicio,80.32
+833,0,Permanece,6.18
+834,0,Permanece,59.93
+835,0,Permanece,17.86
+836,0,Permanece,54.13
+837,0,Permanece,11.41
+838,0,Permanece,59.05
+839,1,Precio,86.05
+840,0,Permanece,1.62
+841,0,Permanece,10.31
+842,0,Permanece,26.67
+843,0,Permanece,31.18
+844,0,Permanece,20.92
+845,1,Fusión empresarial,98.26
+846,0,Permanece,39.45
+847,0,Permanece,10.12
+848,0,Permanece,41.02
+849,0,Permanece,54.18
+850,0,Permanece,3.07
+851,0,Permanece,30.37
+852,0,Permanece,14.41
+853,0,Permanece,28.47
+854,0,Permanece,31.13
+855,1,Cambio tecnológico,71.65
+856,0,Permanece,30.34
+857,0,Permanece,0.92
+858,0,Permanece,20.03
+859,0,Permanece,52.61
+860,1,Calidad de servicio,71.08
+861,0,Permanece,27.52
+862,1,Calidad de servicio,71.58
+863,0,Permanece,42.2
+864,0,Permanece,9.57
+865,0,Permanece,9.01
+866,0,Permanece,23.79
+867,0,Permanece,34.37
+868,0,Permanece,24.58
+869,1,Precio,75.42
+870,0,Permanece,12.67
+871,0,Permanece,59.86
+872,0,Permanece,17.3
+873,0,Permanece,19.92
+874,0,Permanece,12.27
+875,0,Permanece,13.19
+876,0,Permanece,47.39
+877,0,Permanece,14.46
+878,0,Permanece,44.4
+879,0,Permanece,20.29
+880,0,Permanece,58.83
+881,0,Permanece,9.14
+882,0,Permanece,6.61
+883,0,Permanece,16.03
+884,0,Permanece,3.12
+885,0,Permanece,57.97
+886,0,Permanece,25.26
+887,1,Competencia,78.49
+888,0,Permanece,9.18
+889,0,Permanece,7.03
+890,0,Permanece,54.52
+891,0,Permanece,42.21
+892,0,Permanece,50.42
+893,0,Permanece,45.49
+894,0,Permanece,9.89
+895,0,Permanece,25.79
+896,0,Permanece,57.55
+897,0,Permanece,37.42
+898,1,Fusión empresarial,91.21
+899,0,Permanece,30.64
+900,0,Permanece,28.14
+901,1,Cambio tecnológico,83.18
+902,0,Permanece,8.81
+903,0,Permanece,46.88
+904,0,Permanece,38.93
+905,1,Cambio tecnológico,83.3
+906,0,Permanece,43.13
+907,0,Permanece,53.35
+908,1,Calidad de servicio,93.0
+909,0,Permanece,3.08
+910,1,Precio,94.92
+911,0,Permanece,12.44
+912,0,Permanece,22.67
+913,0,Permanece,34.62
+914,0,Permanece,43.68
+915,1,Precio,99.72
+916,0,Permanece,23.81
+917,1,Fusión empresarial,82.22
+918,0,Permanece,38.25
+919,0,Permanece,54.83
+920,0,Permanece,59.58
+921,0,Permanece,1.48
+922,0,Permanece,38.8
+923,0,Permanece,25.93
+924,0,Permanece,37.55
+925,0,Permanece,10.35
+926,0,Permanece,14.38
+927,0,Permanece,45.56
+928,0,Permanece,57.3
+929,1,Cambio tecnológico,95.47
+930,0,Permanece,39.92
+931,0,Permanece,58.34
+932,0,Permanece,34.47
+933,0,Permanece,58.23
+934,0,Permanece,45.69
+935,0,Permanece,19.41
+936,0,Permanece,31.72
+937,0,Permanece,32.62
+938,0,Permanece,39.74
+939,0,Permanece,35.43
+940,0,Permanece,43.84
+941,0,Permanece,11.64
+942,0,Permanece,11.64
+943,0,Permanece,11.01
+944,0,Permanece,12.07
+945,0,Permanece,48.02
+946,0,Permanece,14.41
+947,0,Permanece,11.65
+948,0,Permanece,55.71
+949,0,Permanece,11.88
+950,0,Permanece,15.04
+951,0,Permanece,49.21
+952,0,Permanece,17.2
+953,1,Precio,75.77
+954,0,Permanece,58.84
+955,1,Calidad de servicio,94.77
+956,0,Permanece,44.81
+957,0,Permanece,17.5
+958,0,Permanece,26.81
+959,0,Permanece,4.88
+960,0,Permanece,11.4
+961,0,Permanece,50.76
+962,0,Permanece,47.26
+963,0,Permanece,42.28
+964,0,Permanece,38.49
+965,0,Permanece,49.5
+966,0,Permanece,24.84
+967,0,Permanece,14.38
+968,0,Permanece,24.6
+969,0,Permanece,54.52
+970,0,Permanece,14.78
+971,0,Permanece,6.2
+972,0,Permanece,12.43
+973,0,Permanece,1.9
+974,0,Permanece,17.72
+975,0,Permanece,2.07
+976,0,Permanece,31.0
+977,0,Permanece,59.17
+978,0,Permanece,34.38
+979,0,Permanece,27.69
+980,0,Permanece,32.54
+981,0,Permanece,52.98
+982,0,Permanece,57.64
+983,0,Permanece,52.21
+984,0,Permanece,53.22
+985,0,Permanece,0.52
+986,0,Permanece,0.87
+987,0,Permanece,44.49
+988,0,Permanece,48.37
+989,1,Precio,93.69
+990,0,Permanece,41.51
+991,0,Permanece,51.33
+992,0,Permanece,27.89
+993,0,Permanece,8.57
+994,0,Permanece,17.85
+995,0,Permanece,28.66
+996,0,Permanece,2.55
+997,0,Permanece,7.07
+998,0,Permanece,32.44
+999,0,Permanece,29.41
+1000,0,Permanece,59.13
+1001,0,Permanece,35.36
+1002,0,Permanece,2.09
+1003,0,Permanece,41.67
+1004,0,Permanece,30.08
+1005,0,Permanece,7.7
+1006,0,Permanece,55.38
+1007,0,Permanece,51.11
+1008,0,Permanece,40.46
+1009,0,Permanece,56.54
+1010,0,Permanece,54.77
+1011,0,Permanece,28.63
+1012,0,Permanece,9.28
+1013,0,Permanece,44.58
+1014,0,Permanece,58.26
+1015,0,Permanece,59.76
+1016,1,Fusión empresarial,94.58
+1017,0,Permanece,8.58
+1018,0,Permanece,57.81
+1019,0,Permanece,43.67
+1020,0,Permanece,6.56
+1021,0,Permanece,12.81
+1022,1,Fusión empresarial,77.93
+1023,0,Permanece,28.19
+1024,0,Permanece,7.12
+1025,0,Permanece,8.89
+1026,1,Competencia,92.13
+1027,0,Permanece,11.43
+1028,0,Permanece,1.08
+1029,0,Permanece,9.8
+1030,1,Fusión empresarial,89.14
+1031,0,Permanece,52.36
+1032,0,Permanece,32.15
+1033,0,Permanece,24.23
+1034,0,Permanece,31.96
+1035,0,Permanece,36.56
+1036,0,Permanece,20.69
+1037,0,Permanece,59.72
+1038,0,Permanece,38.65
+1039,1,Calidad de servicio,76.83
+1040,0,Permanece,47.24
+1041,0,Permanece,57.18
+1042,0,Permanece,43.78
+1043,0,Permanece,17.85
+1044,0,Permanece,50.97
+1045,0,Permanece,33.39
+1046,0,Permanece,20.34
+1047,1,Fusión empresarial,79.33
+1048,1,Fusión empresarial,75.1
+1049,0,Permanece,49.32
+1050,0,Permanece,12.24
+1051,0,Permanece,48.32
+1052,0,Permanece,42.74
+1053,0,Permanece,27.32
+1054,0,Permanece,58.6
+1055,0,Permanece,11.51
+1056,0,Permanece,2.24
+1057,0,Permanece,27.13
+1058,0,Permanece,50.73
+1059,0,Permanece,42.82
+1060,0,Permanece,48.02
+1061,0,Permanece,4.87
+1062,1,Cambio tecnológico,93.22
+1063,0,Permanece,0.36
+1064,0,Permanece,36.38
+1065,0,Permanece,3.47
+1066,0,Permanece,38.13
+1067,1,Fusión empresarial,93.42
+1068,0,Permanece,30.06
+1069,0,Permanece,36.28
+1070,0,Permanece,26.32
+1071,0,Permanece,22.57
+1072,0,Permanece,33.63
+1073,0,Permanece,19.44
+1074,1,Competencia,95.19
+1075,0,Permanece,18.49
+1076,1,Cambio tecnológico,95.4
+1077,0,Permanece,18.45
+1078,0,Permanece,54.98
+1079,1,Calidad de servicio,91.58
+1080,1,Fusión empresarial,72.02
+1081,0,Permanece,24.71
+1082,0,Permanece,44.13
+1083,0,Permanece,51.56
+1084,0,Permanece,47.52
+1085,0,Permanece,10.58
+1086,0,Permanece,17.99
+1087,0,Permanece,19.54
+1088,1,Cambio tecnológico,75.29
+1089,0,Permanece,33.92
+1090,0,Permanece,18.23
+1091,0,Permanece,36.56
+1092,0,Permanece,26.52
+1093,0,Permanece,31.96
+1094,0,Permanece,49.9
+1095,0,Permanece,11.89
+1096,0,Permanece,7.55
+1097,0,Permanece,18.32
+1098,0,Permanece,40.69
+1099,0,Permanece,21.61
+1100,0,Permanece,6.82
+1101,0,Permanece,18.35
+1102,0,Permanece,49.49
+1103,0,Permanece,41.19
+1104,0,Permanece,32.52
+1105,0,Permanece,13.06
+1106,0,Permanece,8.37
+1107,0,Permanece,27.86
+1108,0,Permanece,50.09
+1109,0,Permanece,43.65
+1110,0,Permanece,20.74
+1111,0,Permanece,31.79
+1112,1,Precio,88.38
+1113,0,Permanece,34.16
+1114,0,Permanece,37.19
+1115,0,Permanece,39.72
+1116,1,Fusión empresarial,75.9
+1117,0,Permanece,56.59
+1118,0,Permanece,51.21
+1119,0,Permanece,58.65
+1120,0,Permanece,7.1
+1121,0,Permanece,59.12
+1122,0,Permanece,8.51
+1123,0,Permanece,8.57
+1124,0,Permanece,1.74
+1125,0,Permanece,54.18
+1126,0,Permanece,39.88
+1127,0,Permanece,17.08
+1128,0,Permanece,4.59
+1129,0,Permanece,53.9
+1130,0,Permanece,28.65
+1131,0,Permanece,55.49
+1132,0,Permanece,36.52
+1133,0,Permanece,10.57
+1134,0,Permanece,50.83
+1135,0,Permanece,10.31
+1136,0,Permanece,1.32
+1137,1,Cambio tecnológico,84.62
+1138,0,Permanece,16.43
+1139,1,Cambio tecnológico,95.25
+1140,1,Precio,91.81
+1141,0,Permanece,41.43
+1142,1,Precio,80.1
+1143,1,Fusión empresarial,76.81
+1144,0,Permanece,0.99
+1145,0,Permanece,25.31
+1146,1,Cambio tecnológico,98.84
+1147,0,Permanece,27.27
+1148,0,Permanece,3.4
+1149,0,Permanece,12.09
+1150,1,Precio,94.27
+1151,0,Permanece,53.21
+1152,0,Permanece,56.55
+1153,0,Permanece,46.31
+1154,0,Permanece,51.49
+1155,0,Permanece,37.22
+1156,1,Competencia,84.01
+1157,0,Permanece,29.84
+1158,1,Calidad de servicio,78.17
+1159,0,Permanece,2.48
+1160,1,Competencia,99.87
+1161,0,Permanece,15.22
+1162,1,Cambio tecnológico,76.68
+1163,0,Permanece,42.98
+1164,0,Permanece,13.24
+1165,0,Permanece,27.57
+1166,0,Permanece,52.98
+1167,0,Permanece,17.28
+1168,0,Permanece,8.11
+1169,0,Permanece,24.29
+1170,0,Permanece,47.91
+1171,0,Permanece,27.75
+1172,0,Permanece,3.74
+1173,0,Permanece,19.9
+1174,0,Permanece,5.36
+1175,0,Permanece,32.68
+1176,0,Permanece,11.52
+1177,0,Permanece,28.59
+1178,1,Cambio tecnológico,71.19
+1179,0,Permanece,28.44
+1180,0,Permanece,38.82
+1181,0,Permanece,8.83
+1182,0,Permanece,28.33
+1183,0,Permanece,37.45
+1184,0,Permanece,23.46
+1185,0,Permanece,27.25
+1186,0,Permanece,48.96
+1187,0,Permanece,24.64
+1188,0,Permanece,31.41
+1189,0,Permanece,30.3
+1190,0,Permanece,6.3
+1191,0,Permanece,39.69
+1192,0,Permanece,37.02
+1193,0,Permanece,29.98
+1194,1,Fusión empresarial,99.74
+1195,0,Permanece,36.83
+1196,0,Permanece,11.93
+1197,0,Permanece,54.9
+1198,1,Cambio tecnológico,83.84
+1199,1,Calidad de servicio,99.79
+1200,0,Permanece,7.85
+1201,0,Permanece,43.01
+1202,0,Permanece,34.76
+1203,1,Precio,86.34
+1204,0,Permanece,57.0
+1205,0,Permanece,5.96
+1206,0,Permanece,29.65
+1207,0,Permanece,32.41
+1208,0,Permanece,10.92
+1209,1,Fusión empresarial,86.9
+1210,1,Cambio tecnológico,72.13
+1211,0,Permanece,15.72
+1212,1,Precio,95.66
+1213,0,Permanece,16.42
+1214,0,Permanece,14.7
+1215,1,Calidad de servicio,90.17
+1216,0,Permanece,48.18
+1217,0,Permanece,36.98
+1218,0,Permanece,55.19
+1219,1,Calidad de servicio,92.05
+1220,0,Permanece,36.74
+1221,1,Fusión empresarial,84.16
+1222,0,Permanece,45.63
+1223,0,Permanece,27.23
+1224,0,Permanece,45.88
+1225,0,Permanece,9.15
+1226,0,Permanece,47.67
+1227,0,Permanece,3.09
+1228,0,Permanece,52.65
+1229,1,Competencia,88.28
+1230,1,Fusión empresarial,97.49
+1231,0,Permanece,29.61
+1232,0,Permanece,34.32
+1233,0,Permanece,26.54
+1234,1,Competencia,77.13
+1235,1,Fusión empresarial,99.66
+1236,1,Precio,83.31
+1237,0,Permanece,4.68
+1238,0,Permanece,35.63
+1239,0,Permanece,58.9
+1240,0,Permanece,13.41
+1241,1,Competencia,70.59
+1242,0,Permanece,41.58
+1243,0,Permanece,38.84
+1244,0,Permanece,58.6
+1245,0,Permanece,59.36
+1246,0,Permanece,16.49
+1247,1,Competencia,95.8
+1248,0,Permanece,23.81
+1249,0,Permanece,58.36
+1250,0,Permanece,27.07
+1251,0,Permanece,24.97
+1252,0,Permanece,54.33
+1253,0,Permanece,14.61
+1254,0,Permanece,21.1
+1255,0,Permanece,2.05
+1256,0,Permanece,46.07
+1257,0,Permanece,18.66
+1258,0,Permanece,26.59
+1259,1,Precio,72.99
+1260,0,Permanece,27.17
+1261,0,Permanece,43.93
+1262,0,Permanece,37.55
+1263,0,Permanece,51.79
+1264,0,Permanece,44.39
+1265,0,Permanece,50.55
+1266,0,Permanece,49.26
+1267,1,Fusión empresarial,98.56
+1268,0,Permanece,36.04
+1269,0,Permanece,3.74
+1270,1,Fusión empresarial,79.58
+1271,0,Permanece,23.02
+1272,0,Permanece,29.24
+1273,0,Permanece,20.69
+1274,0,Permanece,5.58
+1275,0,Permanece,2.5
+1276,1,Fusión empresarial,85.06
+1277,0,Permanece,25.25
+1278,0,Permanece,38.29
+1279,1,Cambio tecnológico,91.54
+1280,1,Calidad de servicio,83.74
+1281,0,Permanece,13.88
+1282,0,Permanece,50.91
+1283,0,Permanece,0.89
+1284,0,Permanece,1.71
+1285,0,Permanece,48.05
+1286,0,Permanece,21.77
+1287,1,Calidad de servicio,76.33
+1288,0,Permanece,14.38
+1289,0,Permanece,24.87
+1290,0,Permanece,15.65
+1291,1,Cambio tecnológico,98.76
+1292,1,Precio,70.94
+1293,1,Precio,73.01
+1294,0,Permanece,26.57
+1295,0,Permanece,22.44
+1296,0,Permanece,47.76
+1297,1,Fusión empresarial,75.21
+1298,0,Permanece,36.07
+1299,0,Permanece,28.93
+1300,0,Permanece,35.98
+1301,0,Permanece,19.57
+1302,0,Permanece,35.84
+1303,0,Permanece,7.68
+1304,0,Permanece,41.91
+1305,0,Permanece,30.7
+1306,0,Permanece,19.52
+1307,0,Permanece,47.33
+1308,1,Calidad de servicio,92.13
+1309,0,Permanece,17.26
+1310,0,Permanece,27.78
+1311,0,Permanece,18.13
+1312,0,Permanece,49.0
+1313,0,Permanece,53.69
+1314,0,Permanece,9.79
+1315,0,Permanece,55.57
+1316,0,Permanece,0.86
+1317,0,Permanece,27.77
+1318,0,Permanece,7.43
+1319,0,Permanece,39.89
+1320,1,Cambio tecnológico,77.44
+1321,0,Permanece,38.21
+1322,0,Permanece,15.4
+1323,0,Permanece,33.02
+1324,0,Permanece,42.4
+1325,0,Permanece,36.4
+1326,0,Permanece,4.77
+1327,0,Permanece,16.94
+1328,0,Permanece,21.66
+1329,1,Competencia,74.64
+1330,0,Permanece,47.18
+1331,0,Permanece,5.3
+1332,0,Permanece,16.23
+1333,1,Precio,85.86
+1334,0,Permanece,13.64
+1335,1,Competencia,77.23
+1336,0,Permanece,14.34
+1337,0,Permanece,0.92
+1338,0,Permanece,56.21
+1339,0,Permanece,22.59
+1340,1,Precio,90.08
+1341,0,Permanece,20.36
+1342,0,Permanece,3.7
+1343,0,Permanece,18.49
+1344,0,Permanece,14.02
+1345,0,Permanece,10.46
+1346,0,Permanece,55.07
+1347,1,Calidad de servicio,75.88
+1348,0,Permanece,20.92
+1349,0,Permanece,25.11
+1350,0,Permanece,20.56
+1351,1,Precio,86.22
+1352,0,Permanece,54.16
+1353,0,Permanece,0.66
+1354,0,Permanece,49.61
+1355,1,Calidad de servicio,94.05
+1356,0,Permanece,52.49
+1357,0,Permanece,14.52
+1358,0,Permanece,52.81
+1359,0,Permanece,21.39
+1360,0,Permanece,7.36
+1361,0,Permanece,45.25
+1362,1,Fusión empresarial,79.48
+1363,1,Fusión empresarial,91.02
+1364,0,Permanece,51.99
+1365,0,Permanece,7.14
+1366,1,Cambio tecnológico,85.2
+1367,0,Permanece,41.72
+1368,0,Permanece,43.19
+1369,0,Permanece,39.58
+1370,0,Permanece,22.95
+1371,1,Calidad de servicio,76.85
+1372,0,Permanece,36.71
+1373,0,Permanece,10.28
+1374,1,Cambio tecnológico,93.62
+1375,0,Permanece,58.67
+1376,0,Permanece,45.69
+1377,0,Permanece,12.91
+1378,0,Permanece,34.7
+1379,1,Fusión empresarial,93.88
+1380,0,Permanece,30.66
+1381,1,Calidad de servicio,74.81
+1382,0,Permanece,20.62
+1383,0,Permanece,3.09
+1384,0,Permanece,37.28
+1385,0,Permanece,51.75
+1386,0,Permanece,22.06
+1387,0,Permanece,3.11
+1388,0,Permanece,4.99
+1389,0,Permanece,46.55
+1390,0,Permanece,33.03
+1391,0,Permanece,29.38
+1392,1,Calidad de servicio,78.77
+1393,1,Fusión empresarial,82.63
+1394,0,Permanece,25.39
+1395,1,Calidad de servicio,89.03
+1396,0,Permanece,37.0
+1397,0,Permanece,43.77
+1398,1,Fusión empresarial,85.75
+1399,1,Competencia,87.78
+1400,1,Cambio tecnológico,74.54
+1401,1,Competencia,77.4
+1402,1,Competencia,92.81
+1403,0,Permanece,54.35
+1404,1,Fusión empresarial,89.37
+1405,0,Permanece,10.43
+1406,1,Cambio tecnológico,72.18
+1407,0,Permanece,13.0
+1408,1,Competencia,98.66
+1409,0,Permanece,29.94
+1410,0,Permanece,31.75
+1411,0,Permanece,59.27
+1412,0,Permanece,37.14
+1413,1,Competencia,73.2
+1414,0,Permanece,56.78
+1415,0,Permanece,8.5
+1416,0,Permanece,43.95
+1417,0,Permanece,43.81
+1418,0,Permanece,37.94
+1419,0,Permanece,28.05
+1420,0,Permanece,8.96
+1421,0,Permanece,57.03
+1422,0,Permanece,30.83
+1423,0,Permanece,13.06
+1424,0,Permanece,42.57
+1425,0,Permanece,12.92
+1426,0,Permanece,12.98
+1427,0,Permanece,29.9
+1428,1,Calidad de servicio,88.22
+1429,0,Permanece,8.13
+1430,0,Permanece,23.96
+1431,0,Permanece,58.99
+1432,0,Permanece,18.1
+1433,0,Permanece,46.59
+1434,0,Permanece,15.97
+1435,0,Permanece,30.11
+1436,1,Fusión empresarial,87.4
+1437,0,Permanece,48.53
+1438,1,Cambio tecnológico,79.88
+1439,0,Permanece,41.25
+1440,1,Calidad de servicio,88.53
+1441,0,Permanece,4.99
+1442,0,Permanece,2.64
+1443,0,Permanece,39.57
+1444,0,Permanece,47.62
+1445,0,Permanece,4.24
+1446,0,Permanece,51.75
+1447,0,Permanece,45.22
+1448,0,Permanece,13.58
+1449,0,Permanece,5.36
+1450,1,Cambio tecnológico,96.24
+1451,0,Permanece,9.26
+1452,0,Permanece,47.54
+1453,0,Permanece,1.1
+1454,0,Permanece,32.06
+1455,0,Permanece,33.64
+1456,1,Fusión empresarial,71.04
+1457,0,Permanece,45.23
+1458,1,Precio,77.31
+1459,0,Permanece,40.81
+1460,0,Permanece,52.43
+1461,0,Permanece,49.4
+1462,0,Permanece,48.34
+1463,0,Permanece,21.9
+1464,0,Permanece,31.09
+1465,0,Permanece,28.58
+1466,0,Permanece,49.97
+1467,0,Permanece,46.57
+1468,0,Permanece,22.52
+1469,0,Permanece,44.8
+1470,1,Cambio tecnológico,84.13
+1471,0,Permanece,5.31
+1472,1,Cambio tecnológico,94.78
+1473,0,Permanece,56.57
+1474,0,Permanece,50.56
+1475,0,Permanece,7.02
+1476,0,Permanece,12.91
+1477,0,Permanece,54.12
+1478,1,Precio,74.78
+1479,0,Permanece,18.75
+1480,0,Permanece,36.97
+1481,0,Permanece,2.14
+1482,0,Permanece,47.82
+1483,0,Permanece,32.68
+1484,0,Permanece,15.69
+1485,0,Permanece,17.12
+1486,0,Permanece,14.43
+1487,0,Permanece,35.18
+1488,0,Permanece,12.4
+1489,1,Cambio tecnológico,91.78
+1490,0,Permanece,7.8
+1491,0,Permanece,28.97
+1492,0,Permanece,21.25
+1493,0,Permanece,24.85
+1494,0,Permanece,1.83
+1495,0,Permanece,51.9
+1496,0,Permanece,49.52
+1497,0,Permanece,23.2
+1498,0,Permanece,49.67
+1499,1,Fusión empresarial,89.66
+1500,0,Permanece,58.1
+1501,0,Permanece,24.0
+1502,0,Permanece,34.35
+1503,1,Calidad de servicio,74.76
+1504,0,Permanece,49.19
+1505,0,Permanece,25.88
+1506,0,Permanece,48.17
+1507,0,Permanece,43.57
+1508,0,Permanece,40.96
+1509,1,Competencia,89.01
+1510,0,Permanece,18.93
+1511,0,Permanece,37.45
+1512,0,Permanece,32.76
+1513,0,Permanece,58.38
+1514,0,Permanece,24.44
+1515,0,Permanece,10.54
+1516,0,Permanece,7.23
+1517,1,Fusión empresarial,96.72
+1518,1,Competencia,90.83
+1519,1,Precio,74.35
+1520,0,Permanece,2.33
+1521,0,Permanece,11.88
+1522,0,Permanece,37.74
+1523,1,Precio,99.55
+1524,0,Permanece,30.43
+1525,0,Permanece,39.95
+1526,1,Cambio tecnológico,93.06
+1527,0,Permanece,26.45
+1528,1,Competencia,98.79
+1529,1,Calidad de servicio,92.84
+1530,0,Permanece,21.49
+1531,0,Permanece,48.72
+1532,1,Fusión empresarial,90.89
+1533,0,Permanece,20.21
+1534,0,Permanece,46.39
+1535,0,Permanece,26.86
+1536,0,Permanece,40.64
+1537,0,Permanece,6.05
+1538,0,Permanece,53.92
+1539,0,Permanece,40.99
+1540,0,Permanece,23.26
+1541,0,Permanece,37.37
+1542,1,Competencia,75.69
+1543,0,Permanece,4.47
+1544,1,Competencia,91.34
+1545,0,Permanece,58.82
+1546,0,Permanece,41.44
+1547,0,Permanece,30.01
+1548,0,Permanece,19.27
+1549,0,Permanece,54.89
+1550,0,Permanece,15.7
+1551,0,Permanece,23.28
+1552,0,Permanece,25.77
+1553,0,Permanece,7.76
+1554,0,Permanece,25.74
+1555,0,Permanece,26.45
+1556,0,Permanece,12.28
+1557,0,Permanece,50.63
+1558,1,Competencia,86.33
+1559,0,Permanece,29.88
+1560,0,Permanece,15.16
+1561,0,Permanece,53.72
+1562,0,Permanece,10.63
+1563,0,Permanece,30.12
+1564,0,Permanece,58.89
+1565,0,Permanece,12.38
+1566,0,Permanece,1.62
+1567,0,Permanece,39.01
+1568,0,Permanece,58.06
+1569,0,Permanece,0.66
+1570,0,Permanece,8.92
+1571,0,Permanece,38.67
+1572,0,Permanece,14.33
+1573,0,Permanece,56.93
+1574,1,Calidad de servicio,91.45
+1575,0,Permanece,38.39
+1576,0,Permanece,23.79
+1577,0,Permanece,59.56
+1578,1,Fusión empresarial,80.14
+1579,0,Permanece,30.95
+1580,0,Permanece,21.12
+1581,0,Permanece,38.9
+1582,0,Permanece,39.1
+1583,0,Permanece,4.44
+1584,0,Permanece,45.62
+1585,1,Cambio tecnológico,88.96
+1586,0,Permanece,38.04
+1587,0,Permanece,42.61
+1588,0,Permanece,26.07
+1589,0,Permanece,42.39
+1590,0,Permanece,33.01
+1591,1,Cambio tecnológico,90.31
+1592,0,Permanece,38.36
+1593,0,Permanece,39.5
+1594,1,Precio,92.76
+1595,0,Permanece,25.07
+1596,0,Permanece,49.81
+1597,0,Permanece,28.85
+1598,0,Permanece,19.57
+1599,0,Permanece,48.55
+1600,0,Permanece,59.68
+1601,0,Permanece,26.57
+1602,0,Permanece,52.07
+1603,0,Permanece,14.61
+1604,0,Permanece,14.94
+1605,1,Calidad de servicio,98.36
+1606,1,Precio,80.13
+1607,0,Permanece,11.18
+1608,1,Fusión empresarial,97.74
+1609,0,Permanece,57.66
+1610,0,Permanece,53.39
+1611,0,Permanece,25.97
+1612,0,Permanece,6.73
+1613,0,Permanece,13.4
+1614,0,Permanece,0.43
+1615,0,Permanece,16.83
+1616,0,Permanece,2.37
+1617,0,Permanece,50.9
+1618,0,Permanece,30.69
+1619,0,Permanece,32.78
+1620,0,Permanece,35.01
+1621,0,Permanece,13.29
+1622,0,Permanece,1.63
+1623,0,Permanece,3.21
+1624,1,Competencia,79.42
+1625,0,Permanece,48.66
+1626,0,Permanece,48.51
+1627,0,Permanece,53.29
+1628,0,Permanece,33.04
+1629,0,Permanece,34.54
+1630,0,Permanece,18.97
+1631,1,Calidad de servicio,76.8
+1632,1,Cambio tecnológico,93.55
+1633,0,Permanece,54.85
+1634,0,Permanece,49.16
+1635,0,Permanece,18.7
+1636,0,Permanece,2.77
+1637,0,Permanece,16.0
+1638,0,Permanece,29.96
+1639,0,Permanece,52.46
+1640,1,Precio,88.97
+1641,0,Permanece,1.19
+1642,0,Permanece,6.13
+1643,0,Permanece,29.86
+1644,0,Permanece,47.48
+1645,0,Permanece,36.44
+1646,1,Cambio tecnológico,78.73
+1647,0,Permanece,55.08
+1648,1,Competencia,93.82
+1649,0,Permanece,1.49
+1650,0,Permanece,30.83
+1651,0,Permanece,44.13
+1652,0,Permanece,26.67
+1653,0,Permanece,22.91
+1654,0,Permanece,39.56
+1655,0,Permanece,36.33
+1656,1,Precio,89.82
+1657,1,Cambio tecnológico,78.15
+1658,0,Permanece,13.86
+1659,0,Permanece,49.75
+1660,0,Permanece,48.73
+1661,1,Precio,89.07
+1662,0,Permanece,35.55
+1663,1,Fusión empresarial,93.72
+1664,0,Permanece,29.83
+1665,1,Cambio tecnológico,95.48
+1666,0,Permanece,2.8
+1667,1,Fusión empresarial,78.02
+1668,0,Permanece,42.28
+1669,0,Permanece,16.63
+1670,1,Cambio tecnológico,71.74
+1671,1,Fusión empresarial,79.33
+1672,0,Permanece,26.02
+1673,0,Permanece,46.04
+1674,0,Permanece,53.25
+1675,0,Permanece,30.64
+1676,0,Permanece,32.39
+1677,0,Permanece,1.48
+1678,0,Permanece,0.72
+1679,0,Permanece,52.24
+1680,0,Permanece,31.76
+1681,0,Permanece,46.28
+1682,0,Permanece,57.52
+1683,0,Permanece,10.88
+1684,0,Permanece,26.79
+1685,0,Permanece,15.96
+1686,0,Permanece,6.49
+1687,0,Permanece,57.19
+1688,0,Permanece,31.98
+1689,0,Permanece,1.77
+1690,1,Precio,78.08
+1691,0,Permanece,56.43
+1692,1,Calidad de servicio,83.51
+1693,0,Permanece,10.31
+1694,0,Permanece,52.16
+1695,0,Permanece,22.52
+1696,1,Cambio tecnológico,95.79
+1697,0,Permanece,1.77
+1698,0,Permanece,54.26
+1699,0,Permanece,41.27
+1700,0,Permanece,3.38
+1701,1,Fusión empresarial,85.23
+1702,0,Permanece,49.39
+1703,0,Permanece,0.22
+1704,0,Permanece,33.61
+1705,0,Permanece,22.55
+1706,0,Permanece,36.91
+1707,0,Permanece,46.32
+1708,0,Permanece,23.67
+1709,0,Permanece,52.27
+1710,0,Permanece,32.49
+1711,0,Permanece,23.39
+1712,1,Calidad de servicio,91.06
+1713,0,Permanece,6.67
+1714,0,Permanece,1.51
+1715,0,Permanece,54.61
+1716,0,Permanece,24.39
+1717,0,Permanece,57.31
+1718,0,Permanece,33.83
+1719,0,Permanece,33.54
+1720,0,Permanece,30.17
+1721,1,Cambio tecnológico,73.62
+1722,0,Permanece,22.99
+1723,0,Permanece,19.72
+1724,0,Permanece,22.21
+1725,0,Permanece,41.9
+1726,0,Permanece,47.08
+1727,0,Permanece,4.49
+1728,0,Permanece,57.96
+1729,0,Permanece,58.12
+1730,1,Competencia,84.87
+1731,0,Permanece,34.97
+1732,0,Permanece,42.48
+1733,0,Permanece,9.01
+1734,1,Precio,76.75
+1735,0,Permanece,32.73
+1736,0,Permanece,4.89
+1737,0,Permanece,28.29
+1738,1,Precio,99.38
+1739,0,Permanece,59.84
+1740,0,Permanece,16.26
+1741,0,Permanece,2.65
+1742,0,Permanece,17.12
+1743,0,Permanece,20.71
+1744,1,Precio,82.79
+1745,0,Permanece,21.12
+1746,1,Calidad de servicio,74.22
+1747,1,Precio,98.21
+1748,0,Permanece,58.24
+1749,0,Permanece,39.62
+1750,0,Permanece,37.08
+1751,0,Permanece,52.35
+1752,1,Fusión empresarial,95.6
+1753,0,Permanece,28.43
+1754,0,Permanece,19.98
+1755,0,Permanece,6.06
+1756,1,Competencia,86.1
+1757,1,Competencia,78.82
+1758,0,Permanece,57.88
+1759,0,Permanece,34.92
+1760,0,Permanece,35.48
+1761,0,Permanece,15.4
+1762,0,Permanece,2.59
+1763,0,Permanece,55.81
+1764,0,Permanece,31.68
+1765,0,Permanece,6.42
+1766,0,Permanece,32.34
+1767,0,Permanece,22.7
+1768,0,Permanece,59.54
+1769,0,Permanece,54.36
+1770,0,Permanece,38.54
+1771,0,Permanece,21.97
+1772,0,Permanece,6.16
+1773,1,Cambio tecnológico,89.79
+1774,0,Permanece,38.72
+1775,0,Permanece,56.46
+1776,0,Permanece,46.48
+1777,1,Precio,99.99
+1778,0,Permanece,16.69
+1779,0,Permanece,43.66
+1780,0,Permanece,22.67
+1781,0,Permanece,50.49
+1782,1,Competencia,80.82
+1783,0,Permanece,2.32
+1784,0,Permanece,10.23
+1785,0,Permanece,10.04
+1786,0,Permanece,30.55
+1787,0,Permanece,11.59
+1788,0,Permanece,45.27
+1789,0,Permanece,45.81
+1790,0,Permanece,50.49
+1791,0,Permanece,32.72
+1792,0,Permanece,25.92
+1793,0,Permanece,49.99
+1794,1,Fusión empresarial,76.1
+1795,1,Precio,73.91
+1796,0,Permanece,8.95
+1797,0,Permanece,56.84
+1798,0,Permanece,11.92
+1799,0,Permanece,56.93
+1800,1,Cambio tecnológico,73.61
+1801,0,Permanece,13.03
+1802,1,Fusión empresarial,96.26
+1803,0,Permanece,37.25
+1804,0,Permanece,26.74
+1805,1,Calidad de servicio,75.17
+1806,0,Permanece,36.88
+1807,0,Permanece,30.84
+1808,0,Permanece,9.78
+1809,0,Permanece,26.2
+1810,1,Competencia,72.54
+1811,0,Permanece,13.41
+1812,0,Permanece,6.75
+1813,0,Permanece,41.51
+1814,0,Permanece,33.52
+1815,0,Permanece,12.14
+1816,0,Permanece,31.75
+1817,0,Permanece,5.99
+1818,0,Permanece,32.02
+1819,0,Permanece,13.74
+1820,0,Permanece,49.58
+1821,0,Permanece,46.39
+1822,0,Permanece,17.52
+1823,0,Permanece,51.8
+1824,0,Permanece,25.7
+1825,0,Permanece,13.01
+1826,0,Permanece,26.14
+1827,1,Competencia,93.82
+1828,1,Calidad de servicio,80.71
+1829,0,Permanece,0.1
+1830,1,Calidad de servicio,81.47
+1831,0,Permanece,30.9
+1832,0,Permanece,14.84
+1833,1,Precio,79.44
+1834,0,Permanece,11.55
+1835,0,Permanece,50.22
+1836,1,Calidad de servicio,80.16
+1837,0,Permanece,28.48
+1838,1,Calidad de servicio,97.17
+1839,0,Permanece,55.34
+1840,1,Calidad de servicio,83.43
+1841,0,Permanece,31.3
+1842,1,Fusión empresarial,70.95
+1843,0,Permanece,15.3
+1844,0,Permanece,25.57
+1845,0,Permanece,38.9
+1846,0,Permanece,38.4
+1847,0,Permanece,2.87
+1848,0,Permanece,17.36
+1849,0,Permanece,7.96
+1850,1,Precio,89.13
+1851,0,Permanece,55.11
+1852,0,Permanece,35.11
+1853,0,Permanece,6.16
+1854,0,Permanece,15.5
+1855,0,Permanece,23.61
+1856,0,Permanece,38.96
+1857,0,Permanece,24.37
+1858,0,Permanece,38.31
+1859,0,Permanece,51.52
+1860,0,Permanece,48.43
+1861,0,Permanece,53.36
+1862,0,Permanece,0.83
+1863,0,Permanece,5.38
+1864,1,Calidad de servicio,71.64
+1865,0,Permanece,33.73
+1866,1,Calidad de servicio,77.28
+1867,0,Permanece,33.03
+1868,0,Permanece,1.39
+1869,0,Permanece,6.95
+1870,0,Permanece,6.3
+1871,1,Competencia,79.55
+1872,0,Permanece,51.98
+1873,0,Permanece,15.33
+1874,0,Permanece,14.12
+1875,0,Permanece,42.32
+1876,1,Fusión empresarial,71.18
+1877,0,Permanece,9.01
+1878,0,Permanece,36.04
+1879,0,Permanece,42.37
+1880,0,Permanece,38.8
+1881,0,Permanece,29.46
+1882,0,Permanece,20.62
+1883,1,Competencia,84.54
+1884,0,Permanece,40.83
+1885,0,Permanece,41.41
+1886,0,Permanece,26.47
+1887,0,Permanece,2.87
+1888,0,Permanece,52.73
+1889,0,Permanece,46.77
+1890,0,Permanece,13.01
+1891,0,Permanece,32.9
+1892,1,Cambio tecnológico,70.06
+1893,0,Permanece,8.36
+1894,1,Calidad de servicio,97.24
+1895,1,Calidad de servicio,97.3
+1896,0,Permanece,40.97
+1897,0,Permanece,9.42
+1898,0,Permanece,39.52
+1899,0,Permanece,55.73
+1900,0,Permanece,2.82
+1901,0,Permanece,42.72
+1902,0,Permanece,28.63
+1903,0,Permanece,3.6
+1904,0,Permanece,24.76
+1905,0,Permanece,21.63
+1906,0,Permanece,39.6
+1907,0,Permanece,16.44
+1908,1,Competencia,70.17
+1909,1,Competencia,72.58
+1910,0,Permanece,47.22
+1911,1,Fusión empresarial,79.77
+1912,0,Permanece,22.18
+1913,1,Precio,94.45
+1914,0,Permanece,31.03
+1915,0,Permanece,26.97
+1916,0,Permanece,29.53
+1917,0,Permanece,50.54
+1918,0,Permanece,43.56
+1919,0,Permanece,39.21
+1920,0,Permanece,28.35
+1921,0,Permanece,21.04
+1922,0,Permanece,0.06
+1923,0,Permanece,20.62
+1924,1,Fusión empresarial,90.97
+1925,0,Permanece,39.92
+1926,1,Precio,79.88
+1927,1,Calidad de servicio,89.33
+1928,0,Permanece,39.83
+1929,0,Permanece,22.48
+1930,0,Permanece,44.34
+1931,0,Permanece,37.57
+1932,1,Fusión empresarial,91.83
+1933,0,Permanece,55.05
+1934,0,Permanece,30.75
+1935,1,Cambio tecnológico,82.14
+1936,1,Calidad de servicio,70.85
+1937,1,Calidad de servicio,90.77
+1938,0,Permanece,37.98
+1939,0,Permanece,45.87
+1940,1,Cambio tecnológico,89.75
+1941,0,Permanece,29.3
+1942,0,Permanece,36.79
+1943,0,Permanece,24.19
+1944,0,Permanece,51.58
+1945,0,Permanece,26.39
+1946,0,Permanece,17.27
+1947,0,Permanece,31.27
+1948,0,Permanece,22.07
+1949,0,Permanece,13.16
+1950,0,Permanece,33.94
+1951,0,Permanece,13.05
+1952,0,Permanece,40.81
+1953,0,Permanece,54.0
+1954,0,Permanece,32.07
+1955,0,Permanece,5.81
+1956,0,Permanece,48.77
+1957,0,Permanece,53.6
+1958,0,Permanece,9.16
+1959,0,Permanece,13.57
+1960,0,Permanece,45.52
+1961,0,Permanece,37.05
+1962,0,Permanece,40.39
+1963,0,Permanece,49.12
+1964,0,Permanece,41.64
+1965,0,Permanece,22.03
+1966,0,Permanece,24.74
+1967,0,Permanece,6.61
+1968,0,Permanece,30.04
+1969,0,Permanece,53.5
+1970,1,Calidad de servicio,73.15
+1971,0,Permanece,37.28
+1972,0,Permanece,30.76
+1973,0,Permanece,22.54
+1974,0,Permanece,10.49
+1975,1,Competencia,86.75
+1976,0,Permanece,19.94
+1977,0,Permanece,31.3
+1978,0,Permanece,44.59
+1979,0,Permanece,58.7
+1980,0,Permanece,14.09
+1981,0,Permanece,46.77
+1982,0,Permanece,12.08
+1983,0,Permanece,53.76
+1984,0,Permanece,27.5
+1985,1,Cambio tecnológico,81.6
+1986,0,Permanece,35.03
+1987,0,Permanece,20.88
+1988,0,Permanece,3.29
+1989,0,Permanece,58.0
+1990,0,Permanece,43.21
+1991,0,Permanece,18.77
+1992,0,Permanece,9.2
+1993,0,Permanece,33.73
+1994,0,Permanece,20.09
+1995,0,Permanece,51.48
+1996,0,Permanece,1.25
+1997,0,Permanece,23.59
+1998,0,Permanece,19.17
+1999,0,Permanece,49.47
+2000,0,Permanece,17.5
+2001,0,Permanece,49.07
+2002,0,Permanece,24.81
+2003,0,Permanece,59.19
+2004,1,Fusión empresarial,70.08
+2005,0,Permanece,7.3
+2006,0,Permanece,3.41
+2007,0,Permanece,17.09
+2008,0,Permanece,32.63
+2009,0,Permanece,41.57
+2010,0,Permanece,58.51
+2011,0,Permanece,44.48
+2012,0,Permanece,9.72
+2013,0,Permanece,2.18
+2014,0,Permanece,58.55
+2015,0,Permanece,37.62
+2016,0,Permanece,14.31
+2017,0,Permanece,48.97
+2018,0,Permanece,17.23
+2019,1,Calidad de servicio,88.28
+2020,1,Cambio tecnológico,76.73
+2021,1,Cambio tecnológico,92.2
+2022,0,Permanece,3.9
+2023,0,Permanece,1.61
+2024,0,Permanece,42.26
+2025,1,Calidad de servicio,74.75
+2026,0,Permanece,39.44
+2027,0,Permanece,30.29
+2028,0,Permanece,14.73
+2029,0,Permanece,34.1
+2030,0,Permanece,15.36
+2031,0,Permanece,38.75
+2032,0,Permanece,6.85
+2033,0,Permanece,42.49
+2034,0,Permanece,32.69
+2035,0,Permanece,46.47
+2036,1,Fusión empresarial,87.98
+2037,0,Permanece,5.72
+2038,0,Permanece,2.18
+2039,1,Precio,84.26
+2040,0,Permanece,16.41
+2041,0,Permanece,18.01
+2042,1,Competencia,83.4
+2043,0,Permanece,37.88
+2044,0,Permanece,31.14
+2045,0,Permanece,50.46
+2046,0,Permanece,57.92
+2047,0,Permanece,15.08
+2048,0,Permanece,35.07
+2049,0,Permanece,46.42
+2050,0,Permanece,14.93
+2051,0,Permanece,15.72
+2052,0,Permanece,11.06
+2053,1,Cambio tecnológico,91.32
+2054,0,Permanece,21.48
+2055,0,Permanece,50.65
+2056,0,Permanece,46.71
+2057,0,Permanece,43.5
+2058,0,Permanece,44.51
+2059,0,Permanece,50.67
+2060,0,Permanece,54.83
+2061,0,Permanece,55.49
+2062,0,Permanece,11.65
+2063,0,Permanece,0.08
+2064,0,Permanece,5.47
+2065,0,Permanece,11.47
+2066,1,Cambio tecnológico,98.73
+2067,0,Permanece,38.96
+2068,0,Permanece,42.72
+2069,0,Permanece,44.24
+2070,0,Permanece,43.3
+2071,0,Permanece,43.13
+2072,0,Permanece,34.91
+2073,0,Permanece,9.2
+2074,0,Permanece,18.1
+2075,0,Permanece,11.36
+2076,0,Permanece,50.84
+2077,0,Permanece,57.14
+2078,0,Permanece,4.19
+2079,1,Cambio tecnológico,94.49
+2080,0,Permanece,57.01
+2081,0,Permanece,53.07
+2082,0,Permanece,58.51
+2083,0,Permanece,59.42
+2084,1,Precio,72.8
+2085,0,Permanece,47.41
+2086,0,Permanece,17.98
+2087,0,Permanece,11.89
+2088,0,Permanece,11.68
+2089,0,Permanece,37.66
+2090,0,Permanece,38.47
+2091,1,Precio,83.58
+2092,1,Fusión empresarial,76.27
+2093,0,Permanece,52.63
+2094,0,Permanece,44.22
+2095,0,Permanece,1.29
+2096,0,Permanece,15.15
+2097,0,Permanece,42.26
+2098,0,Permanece,8.49
+2099,0,Permanece,31.42
+2100,1,Precio,89.58
+2101,0,Permanece,18.62
+2102,0,Permanece,35.63
+2103,0,Permanece,50.46
+2104,0,Permanece,31.54
+2105,0,Permanece,16.36
+2106,0,Permanece,42.58
+2107,0,Permanece,14.29
+2108,0,Permanece,22.0
+2109,0,Permanece,49.61
+2110,0,Permanece,46.7
+2111,0,Permanece,32.08
+2112,0,Permanece,35.05
+2113,1,Competencia,74.45
+2114,0,Permanece,1.97
+2115,0,Permanece,32.5
+2116,0,Permanece,22.06
+2117,0,Permanece,4.4
+2118,0,Permanece,2.3
+2119,0,Permanece,58.89
+2120,1,Fusión empresarial,83.79
+2121,0,Permanece,28.28
+2122,0,Permanece,18.33
+2123,0,Permanece,29.68
+2124,0,Permanece,11.19
+2125,0,Permanece,50.67
+2126,0,Permanece,26.82
+2127,1,Calidad de servicio,85.71
+2128,0,Permanece,56.28
+2129,0,Permanece,44.83
+2130,0,Permanece,44.92
+2131,0,Permanece,19.34
+2132,1,Cambio tecnológico,74.49
+2133,0,Permanece,37.26
+2134,0,Permanece,47.57
+2135,0,Permanece,37.82
+2136,0,Permanece,52.64
+2137,0,Permanece,43.23
+2138,0,Permanece,26.94
+2139,0,Permanece,5.42
+2140,1,Fusión empresarial,94.77
+2141,0,Permanece,40.51
+2142,0,Permanece,32.43
+2143,0,Permanece,36.55
+2144,1,Cambio tecnológico,86.35
+2145,0,Permanece,42.91
+2146,1,Precio,94.88
+2147,0,Permanece,41.58
+2148,0,Permanece,2.22
+2149,1,Competencia,70.98
+2150,0,Permanece,43.38
+2151,0,Permanece,20.83
+2152,0,Permanece,48.57
+2153,0,Permanece,51.79
+2154,0,Permanece,51.2
+2155,0,Permanece,14.4
+2156,0,Permanece,45.07
+2157,0,Permanece,58.52
+2158,0,Permanece,22.63
+2159,0,Permanece,54.06
+2160,0,Permanece,11.97
+2161,0,Permanece,21.16
+2162,1,Competencia,91.89
+2163,0,Permanece,4.83
+2164,0,Permanece,17.61
+2165,0,Permanece,14.31
+2166,0,Permanece,33.8
+2167,0,Permanece,8.55
+2168,0,Permanece,54.89
+2169,0,Permanece,35.44
+2170,0,Permanece,17.29
+2171,0,Permanece,34.12
+2172,0,Permanece,33.96
+2173,1,Precio,75.75
+2174,0,Permanece,55.44
+2175,0,Permanece,12.81
+2176,1,Cambio tecnológico,88.89
+2177,0,Permanece,51.22
+2178,0,Permanece,23.0
+2179,0,Permanece,54.89
+2180,1,Fusión empresarial,76.2
+2181,0,Permanece,55.75
+2182,0,Permanece,16.3
+2183,0,Permanece,14.39
+2184,0,Permanece,9.06
+2185,0,Permanece,12.02
+2186,1,Cambio tecnológico,94.02
+2187,0,Permanece,48.39
+2188,0,Permanece,6.98
+2189,0,Permanece,37.17
+2190,0,Permanece,32.81
+2191,0,Permanece,6.65
+2192,0,Permanece,19.51
+2193,1,Calidad de servicio,93.38
+2194,0,Permanece,21.48
+2195,0,Permanece,7.7
+2196,0,Permanece,39.62
+2197,0,Permanece,35.56
+2198,0,Permanece,6.37
+2199,0,Permanece,43.68
+2200,0,Permanece,35.96
+2201,0,Permanece,41.72
+2202,0,Permanece,57.42
+2203,0,Permanece,35.29
+2204,0,Permanece,18.35
+2205,0,Permanece,18.34
+2206,0,Permanece,43.31
+2207,0,Permanece,29.49
+2208,0,Permanece,18.62
+2209,0,Permanece,14.84
+2210,0,Permanece,30.15
+2211,0,Permanece,16.74
+2212,0,Permanece,6.22
+2213,1,Calidad de servicio,89.29
+2214,1,Fusión empresarial,92.91
+2215,1,Competencia,71.91
+2216,0,Permanece,53.01
+2217,0,Permanece,38.9
+2218,0,Permanece,23.85
+2219,1,Precio,75.99
+2220,0,Permanece,33.84
+2221,0,Permanece,13.52
+2222,0,Permanece,42.48
+2223,0,Permanece,33.45
+2224,0,Permanece,1.66
+2225,0,Permanece,55.16
+2226,0,Permanece,42.78
+2227,0,Permanece,26.29
+2228,0,Permanece,4.56
+2229,0,Permanece,50.65
+2230,0,Permanece,24.71
+2231,1,Fusión empresarial,90.99
+2232,1,Competencia,82.6
+2233,0,Permanece,36.5
+2234,0,Permanece,12.34
+2235,0,Permanece,56.67
+2236,0,Permanece,32.43
+2237,0,Permanece,28.39
+2238,0,Permanece,31.88
+2239,0,Permanece,12.99
+2240,0,Permanece,10.78
+2241,0,Permanece,50.8
+2242,1,Cambio tecnológico,70.85
+2243,0,Permanece,45.04
+2244,0,Permanece,19.17
+2245,0,Permanece,47.71
+2246,0,Permanece,18.91
+2247,0,Permanece,38.3
+2248,1,Precio,80.67
+2249,1,Precio,78.46
+2250,0,Permanece,6.11
+2251,0,Permanece,59.59
+2252,0,Permanece,35.62
+2253,1,Competencia,89.05
+2254,0,Permanece,16.63
+2255,0,Permanece,52.51
+2256,0,Permanece,30.87
+2257,0,Permanece,9.52
+2258,0,Permanece,23.76
+2259,0,Permanece,59.44
+2260,0,Permanece,5.02
+2261,0,Permanece,39.67
+2262,0,Permanece,35.85
+2263,0,Permanece,20.91
+2264,0,Permanece,56.17
+2265,0,Permanece,4.07
+2266,1,Fusión empresarial,75.24
+2267,0,Permanece,17.78
+2268,0,Permanece,37.14
+2269,1,Competencia,89.2
+2270,0,Permanece,52.88
+2271,0,Permanece,50.58
+2272,0,Permanece,59.22
+2273,0,Permanece,35.81
+2274,0,Permanece,26.32
+2275,0,Permanece,27.73
+2276,0,Permanece,3.34
+2277,0,Permanece,31.63
+2278,0,Permanece,54.26
+2279,0,Permanece,9.31
+2280,1,Competencia,83.97
+2281,0,Permanece,32.21
+2282,0,Permanece,48.16
+2283,0,Permanece,27.33
+2284,0,Permanece,22.76
+2285,0,Permanece,58.37
+2286,0,Permanece,0.75
+2287,0,Permanece,33.46
+2288,0,Permanece,40.94
+2289,0,Permanece,32.9
+2290,1,Competencia,79.6
+2291,0,Permanece,10.13
+2292,0,Permanece,2.42
+2293,0,Permanece,54.8
+2294,0,Permanece,28.33
+2295,0,Permanece,26.42
+2296,1,Fusión empresarial,96.02
+2297,1,Competencia,90.86
+2298,0,Permanece,3.92
+2299,0,Permanece,11.53
+2300,0,Permanece,42.24
+2301,0,Permanece,13.33
+2302,0,Permanece,56.17
+2303,1,Calidad de servicio,89.85
+2304,0,Permanece,22.2
+2305,0,Permanece,36.09
+2306,0,Permanece,49.42
+2307,0,Permanece,42.04
+2308,0,Permanece,10.2
+2309,0,Permanece,40.44
+2310,0,Permanece,30.09
+2311,0,Permanece,26.45
+2312,1,Calidad de servicio,72.03
+2313,1,Competencia,98.31
+2314,0,Permanece,46.41
+2315,0,Permanece,54.61
+2316,0,Permanece,40.49
+2317,0,Permanece,17.05
+2318,0,Permanece,42.11
+2319,1,Fusión empresarial,78.37
+2320,0,Permanece,48.63
+2321,0,Permanece,30.1
+2322,0,Permanece,38.98
+2323,1,Fusión empresarial,98.16
+2324,0,Permanece,43.59
+2325,0,Permanece,34.24
+2326,0,Permanece,48.56
+2327,0,Permanece,9.05
+2328,0,Permanece,57.15
+2329,0,Permanece,21.61
+2330,0,Permanece,3.36
+2331,0,Permanece,53.55
+2332,0,Permanece,28.69
+2333,0,Permanece,20.67
+2334,0,Permanece,17.52
+2335,0,Permanece,0.83
+2336,0,Permanece,47.92
+2337,1,Fusión empresarial,94.8
+2338,0,Permanece,37.66
+2339,0,Permanece,25.09
+2340,0,Permanece,13.85
+2341,0,Permanece,55.65
+2342,0,Permanece,25.94
+2343,0,Permanece,50.78
+2344,0,Permanece,12.82
+2345,1,Cambio tecnológico,83.29
+2346,0,Permanece,29.63
+2347,0,Permanece,16.63
+2348,0,Permanece,33.71
+2349,1,Competencia,88.79
+2350,0,Permanece,59.0
+2351,0,Permanece,14.69
+2352,1,Cambio tecnológico,98.07
+2353,0,Permanece,44.55
+2354,1,Precio,97.17
+2355,0,Permanece,21.15
+2356,0,Permanece,22.56
+2357,0,Permanece,38.52
+2358,0,Permanece,19.92
+2359,0,Permanece,19.52
+2360,0,Permanece,11.34
+2361,0,Permanece,18.45
+2362,0,Permanece,27.7
+2363,0,Permanece,11.53
+2364,1,Calidad de servicio,72.47
+2365,0,Permanece,2.17
+2366,0,Permanece,10.72
+2367,0,Permanece,26.38
+2368,0,Permanece,22.86
+2369,0,Permanece,59.57
+2370,0,Permanece,39.09
+2371,0,Permanece,58.3
+2372,0,Permanece,0.28
+2373,0,Permanece,35.22
+2374,0,Permanece,53.3
+2375,0,Permanece,8.81
+2376,0,Permanece,40.16
+2377,1,Competencia,97.53
+2378,0,Permanece,21.87
+2379,0,Permanece,6.02
+2380,0,Permanece,51.68
+2381,0,Permanece,14.48
+2382,0,Permanece,21.77
+2383,0,Permanece,18.78
+2384,1,Calidad de servicio,70.01
+2385,0,Permanece,35.02
+2386,0,Permanece,18.73
+2387,0,Permanece,19.51
+2388,0,Permanece,14.99
+2389,0,Permanece,4.3
+2390,0,Permanece,53.68
+2391,0,Permanece,29.38
+2392,0,Permanece,52.58
+2393,0,Permanece,11.29
+2394,0,Permanece,8.98
+2395,0,Permanece,23.97
+2396,0,Permanece,37.08
+2397,0,Permanece,58.29
+2398,0,Permanece,25.66
+2399,0,Permanece,23.89
+2400,0,Permanece,56.12
+2401,0,Permanece,58.36
+2402,1,Cambio tecnológico,72.59
+2403,0,Permanece,59.09
+2404,0,Permanece,8.02
+2405,0,Permanece,15.79
+2406,0,Permanece,44.03
+2407,0,Permanece,20.84
+2408,0,Permanece,38.43
+2409,1,Fusión empresarial,96.75
+2410,0,Permanece,29.79
+2411,0,Permanece,26.43
+2412,0,Permanece,48.1
+2413,0,Permanece,46.54
+2414,0,Permanece,29.7
+2415,0,Permanece,38.8
+2416,0,Permanece,28.21
+2417,0,Permanece,9.36
+2418,0,Permanece,37.31
+2419,0,Permanece,9.32
+2420,0,Permanece,11.25
+2421,1,Fusión empresarial,87.42
+2422,0,Permanece,11.66
+2423,0,Permanece,7.76
+2424,0,Permanece,54.98
+2425,0,Permanece,14.74
+2426,0,Permanece,44.79
+2427,0,Permanece,17.42
+2428,0,Permanece,7.4
+2429,0,Permanece,13.68
+2430,1,Precio,87.25
+2431,0,Permanece,57.77
+2432,0,Permanece,24.12
+2433,0,Permanece,10.94
+2434,0,Permanece,39.68
+2435,1,Cambio tecnológico,99.03
+2436,0,Permanece,21.55
+2437,1,Competencia,90.08
+2438,0,Permanece,55.41
+2439,1,Calidad de servicio,78.02
+2440,0,Permanece,41.33
+2441,1,Competencia,84.7
+2442,0,Permanece,54.91
+2443,0,Permanece,42.11
+2444,0,Permanece,43.8
+2445,0,Permanece,50.64
+2446,0,Permanece,19.41
+2447,0,Permanece,49.34
+2448,0,Permanece,33.87
+2449,0,Permanece,22.86
+2450,0,Permanece,52.33
+2451,0,Permanece,42.77
+2452,0,Permanece,42.55
+2453,0,Permanece,58.38
+2454,0,Permanece,3.4
+2455,1,Cambio tecnológico,71.06
+2456,0,Permanece,22.11
+2457,0,Permanece,11.48
+2458,0,Permanece,9.95
+2459,1,Competencia,77.89
+2460,0,Permanece,30.4
+2461,0,Permanece,30.26
+2462,0,Permanece,32.0
+2463,0,Permanece,6.44
+2464,0,Permanece,34.71
+2465,0,Permanece,47.85
+2466,0,Permanece,59.55
+2467,0,Permanece,26.7
+2468,0,Permanece,58.58
+2469,0,Permanece,47.73
+2470,0,Permanece,34.89
+2471,0,Permanece,31.59
+2472,1,Calidad de servicio,74.29
+2473,0,Permanece,35.52
+2474,0,Permanece,6.6
+2475,0,Permanece,33.6
+2476,0,Permanece,36.79
+2477,0,Permanece,42.42
+2478,1,Cambio tecnológico,93.53
+2479,0,Permanece,5.08
+2480,0,Permanece,41.64
+2481,0,Permanece,14.56
+2482,0,Permanece,14.12
+2483,0,Permanece,40.81
+2484,1,Precio,91.31
+2485,0,Permanece,27.12
+2486,1,Fusión empresarial,78.31
+2487,0,Permanece,54.49
+2488,1,Cambio tecnológico,78.28
+2489,0,Permanece,54.87
+2490,0,Permanece,31.53
+2491,0,Permanece,32.03
+2492,0,Permanece,15.08
+2493,0,Permanece,2.7
+2494,0,Permanece,41.11
+2495,0,Permanece,4.04
+2496,1,Precio,84.06
+2497,0,Permanece,26.25
+2498,0,Permanece,8.81
+2499,0,Permanece,41.38
+2500,1,Fusión empresarial,77.73
+2501,0,Permanece,44.69
+2502,0,Permanece,38.52
+2503,0,Permanece,53.44
+2504,0,Permanece,5.17
+2505,1,Precio,96.81
+2506,0,Permanece,21.73
+2507,0,Permanece,26.74
+2508,1,Competencia,82.49
+2509,1,Calidad de servicio,75.53
+2510,0,Permanece,42.57
+2511,0,Permanece,57.96
+2512,1,Cambio tecnológico,72.76
+2513,0,Permanece,46.95
+2514,0,Permanece,13.11
+2515,0,Permanece,16.56
+2516,0,Permanece,47.24
+2517,0,Permanece,59.61
+2518,0,Permanece,1.16
+2519,0,Permanece,44.57
+2520,0,Permanece,45.0
+2521,1,Fusión empresarial,81.02
+2522,0,Permanece,21.26
+2523,0,Permanece,40.11
+2524,0,Permanece,20.02
+2525,0,Permanece,37.98
+2526,0,Permanece,5.79
+2527,0,Permanece,31.12
+2528,1,Competencia,85.93
+2529,0,Permanece,40.86
+2530,1,Competencia,93.6
+2531,0,Permanece,40.32
+2532,1,Cambio tecnológico,89.63
+2533,0,Permanece,45.41
+2534,0,Permanece,2.54
+2535,0,Permanece,28.71
+2536,0,Permanece,2.56
+2537,0,Permanece,34.84
+2538,0,Permanece,53.24
+2539,0,Permanece,58.29
+2540,0,Permanece,57.93
+2541,1,Fusión empresarial,89.54
+2542,0,Permanece,23.37
+2543,0,Permanece,20.28
+2544,0,Permanece,9.08
+2545,0,Permanece,7.22
+2546,1,Calidad de servicio,81.59
+2547,0,Permanece,22.38
+2548,0,Permanece,32.21
+2549,0,Permanece,6.98
+2550,1,Calidad de servicio,79.98
+2551,0,Permanece,9.52
+2552,1,Fusión empresarial,96.48
+2553,0,Permanece,32.17
+2554,0,Permanece,20.3
+2555,1,Precio,90.65
+2556,0,Permanece,6.06
+2557,0,Permanece,55.66
+2558,0,Permanece,44.26
+2559,0,Permanece,49.56
+2560,0,Permanece,21.46
+2561,0,Permanece,43.11
+2562,0,Permanece,58.3
+2563,0,Permanece,8.11
+2564,0,Permanece,7.91
+2565,0,Permanece,7.34
+2566,0,Permanece,27.52
+2567,0,Permanece,4.58
+2568,0,Permanece,56.75
+2569,0,Permanece,59.39
+2570,0,Permanece,48.11
+2571,0,Permanece,26.42
+2572,0,Permanece,38.95
+2573,0,Permanece,8.08
+2574,0,Permanece,50.97
+2575,0,Permanece,21.25
+2576,0,Permanece,50.89
+2577,0,Permanece,55.13
+2578,0,Permanece,31.57
+2579,0,Permanece,44.39
+2580,0,Permanece,29.37
+2581,0,Permanece,16.62
+2582,0,Permanece,49.71
+2583,1,Competencia,91.79
+2584,0,Permanece,8.55
+2585,0,Permanece,53.72
+2586,0,Permanece,10.9
+2587,0,Permanece,57.76
+2588,0,Permanece,39.35
+2589,0,Permanece,40.94
+2590,0,Permanece,3.61
+2591,0,Permanece,10.49
+2592,0,Permanece,41.61
+2593,0,Permanece,14.58
+2594,0,Permanece,16.47
+2595,0,Permanece,39.39
+2596,0,Permanece,26.95
+2597,0,Permanece,28.43
+2598,0,Permanece,42.92
+2599,1,Precio,99.68
+2600,0,Permanece,40.01
+2601,0,Permanece,23.49
+2602,0,Permanece,26.1
+2603,0,Permanece,5.67
+2604,0,Permanece,44.59
+2605,0,Permanece,5.87
+2606,0,Permanece,30.62
+2607,0,Permanece,5.34
+2608,0,Permanece,34.11
+2609,0,Permanece,58.08
+2610,0,Permanece,36.42
+2611,0,Permanece,32.06
+2612,1,Calidad de servicio,87.26
+2613,0,Permanece,20.17
+2614,0,Permanece,32.47
+2615,0,Permanece,0.38
+2616,0,Permanece,33.49
+2617,1,Cambio tecnológico,85.39
+2618,0,Permanece,31.29
+2619,1,Calidad de servicio,78.62
+2620,0,Permanece,32.3
+2621,0,Permanece,43.67
+2622,0,Permanece,23.89
+2623,0,Permanece,29.24
+2624,0,Permanece,56.81
+2625,0,Permanece,6.39
+2626,0,Permanece,18.49
+2627,0,Permanece,23.45
+2628,0,Permanece,37.16
+2629,0,Permanece,58.72
+2630,0,Permanece,58.66
+2631,0,Permanece,51.01
+2632,0,Permanece,24.45
+2633,0,Permanece,51.22
+2634,0,Permanece,34.41
+2635,1,Competencia,97.35
+2636,0,Permanece,55.71
+2637,0,Permanece,10.94
+2638,0,Permanece,48.05
+2639,0,Permanece,18.7
+2640,0,Permanece,56.77
+2641,0,Permanece,21.52
+2642,0,Permanece,48.32
+2643,1,Fusión empresarial,78.94
+2644,0,Permanece,38.14
+2645,0,Permanece,41.44
+2646,0,Permanece,58.11
+2647,0,Permanece,26.2
+2648,0,Permanece,16.92
+2649,0,Permanece,36.13
+2650,0,Permanece,2.44
+2651,1,Precio,70.69
+2652,0,Permanece,28.95
+2653,0,Permanece,15.13
+2654,0,Permanece,42.61
+2655,0,Permanece,27.67
+2656,0,Permanece,30.57
+2657,0,Permanece,11.51
+2658,0,Permanece,40.86
+2659,0,Permanece,56.89
+2660,1,Fusión empresarial,97.29
+2661,0,Permanece,33.23
+2662,0,Permanece,9.65
+2663,0,Permanece,15.35
+2664,0,Permanece,30.65
+2665,0,Permanece,16.46
+2666,0,Permanece,22.17
+2667,1,Competencia,82.58
+2668,0,Permanece,5.67
+2669,0,Permanece,21.29
+2670,1,Precio,78.64
+2671,1,Precio,82.66
+2672,0,Permanece,15.97
+2673,1,Calidad de servicio,85.83
+2674,1,Calidad de servicio,87.34
+2675,0,Permanece,41.51
+2676,0,Permanece,11.41
+2677,0,Permanece,6.24
+2678,0,Permanece,11.53
+2679,0,Permanece,20.16
+2680,0,Permanece,56.92
+2681,0,Permanece,24.43
+2682,0,Permanece,28.3
+2683,0,Permanece,52.18
+2684,0,Permanece,49.89
+2685,0,Permanece,21.95
+2686,0,Permanece,43.08
+2687,0,Permanece,34.25
+2688,0,Permanece,35.91
+2689,0,Permanece,3.58
+2690,0,Permanece,47.49
+2691,0,Permanece,17.72
+2692,0,Permanece,40.16
+2693,1,Cambio tecnológico,83.78
+2694,1,Fusión empresarial,75.37
+2695,0,Permanece,50.75
+2696,0,Permanece,10.13
+2697,1,Competencia,83.89
+2698,0,Permanece,45.22
+2699,0,Permanece,20.65
+2700,0,Permanece,15.2
+2701,0,Permanece,53.55
+2702,0,Permanece,55.74
+2703,0,Permanece,55.73
+2704,0,Permanece,57.09
+2705,0,Permanece,17.66
+2706,0,Permanece,22.19
+2707,0,Permanece,6.01
+2708,0,Permanece,40.28
+2709,0,Permanece,44.02
+2710,0,Permanece,6.32
+2711,1,Calidad de servicio,71.03
+2712,0,Permanece,43.18
+2713,0,Permanece,27.35
+2714,0,Permanece,15.3
+2715,0,Permanece,48.62
+2716,1,Fusión empresarial,74.4
+2717,0,Permanece,53.43
+2718,0,Permanece,49.88
+2719,0,Permanece,6.39
+2720,0,Permanece,45.03
+2721,0,Permanece,5.67
+2722,0,Permanece,13.58
+2723,0,Permanece,24.37
+2724,0,Permanece,8.53
+2725,0,Permanece,35.35
+2726,0,Permanece,5.27
+2727,1,Precio,81.23
+2728,0,Permanece,1.03
+2729,0,Permanece,7.74
+2730,0,Permanece,32.88
+2731,0,Permanece,28.02
+2732,0,Permanece,18.77
+2733,0,Permanece,14.5
+2734,0,Permanece,49.97
+2735,0,Permanece,47.5
+2736,0,Permanece,2.92
+2737,1,Precio,91.76
+2738,0,Permanece,27.92
+2739,0,Permanece,20.98
+2740,0,Permanece,48.63
+2741,1,Cambio tecnológico,79.15
+2742,0,Permanece,0.81
+2743,0,Permanece,29.29
+2744,0,Permanece,27.56
+2745,0,Permanece,51.61
+2746,1,Calidad de servicio,89.74
+2747,0,Permanece,2.12
+2748,1,Calidad de servicio,99.53
+2749,0,Permanece,37.99
+2750,0,Permanece,46.55
+2751,1,Cambio tecnológico,96.98
+2752,0,Permanece,3.12
+2753,0,Permanece,5.52
+2754,0,Permanece,24.95
+2755,0,Permanece,51.99
+2756,0,Permanece,15.31
+2757,0,Permanece,12.54
+2758,1,Precio,78.93
+2759,1,Calidad de servicio,74.99
+2760,0,Permanece,40.3
+2761,1,Calidad de servicio,76.84
+2762,0,Permanece,38.31
+2763,0,Permanece,30.01
+2764,0,Permanece,38.35
+2765,0,Permanece,53.92
+2766,0,Permanece,29.38
+2767,0,Permanece,33.79
+2768,0,Permanece,23.23
+2769,0,Permanece,53.2
+2770,0,Permanece,18.09
+2771,1,Cambio tecnológico,80.25
+2772,1,Calidad de servicio,70.33
+2773,0,Permanece,39.95
+2774,1,Precio,93.58
+2775,0,Permanece,1.78
+2776,0,Permanece,9.79
+2777,0,Permanece,44.11
+2778,0,Permanece,6.93
+2779,0,Permanece,36.37
+2780,0,Permanece,17.98
+2781,0,Permanece,2.29
+2782,0,Permanece,48.07
+2783,0,Permanece,15.84
+2784,0,Permanece,15.36
+2785,1,Cambio tecnológico,85.71
+2786,0,Permanece,44.42
+2787,0,Permanece,41.91
+2788,0,Permanece,37.42
+2789,0,Permanece,26.62
+2790,0,Permanece,13.85
+2791,0,Permanece,57.6
+2792,0,Permanece,22.11
+2793,0,Permanece,10.78
+2794,0,Permanece,16.65
+2795,0,Permanece,9.03
+2796,0,Permanece,10.59
+2797,0,Permanece,1.71
+2798,0,Permanece,26.18
+2799,0,Permanece,20.49
+2800,0,Permanece,29.3
+2801,0,Permanece,1.75
+2802,1,Precio,78.69
+2803,0,Permanece,56.35
+2804,0,Permanece,14.13
+2805,0,Permanece,46.05
+2806,0,Permanece,54.12
+2807,0,Permanece,52.94
+2808,0,Permanece,25.73
+2809,0,Permanece,39.96
+2810,0,Permanece,0.74
+2811,0,Permanece,58.4
+2812,0,Permanece,6.77
+2813,0,Permanece,11.98
+2814,1,Cambio tecnológico,95.98
+2815,0,Permanece,48.34
+2816,0,Permanece,48.62
+2817,0,Permanece,51.51
+2818,0,Permanece,38.51
+2819,0,Permanece,23.87
+2820,0,Permanece,25.6
+2821,1,Calidad de servicio,70.33
+2822,0,Permanece,17.79
+2823,1,Fusión empresarial,98.26
+2824,0,Permanece,41.91
+2825,0,Permanece,16.57
+2826,0,Permanece,36.84
+2827,0,Permanece,26.93
+2828,0,Permanece,15.82
+2829,0,Permanece,19.07
+2830,0,Permanece,19.82
+2831,0,Permanece,38.07
+2832,0,Permanece,39.88
+2833,0,Permanece,53.45
+2834,0,Permanece,2.07
+2835,0,Permanece,11.56
+2836,0,Permanece,58.51
+2837,1,Cambio tecnológico,88.83
+2838,1,Fusión empresarial,72.85
+2839,0,Permanece,7.25
+2840,1,Calidad de servicio,94.81
+2841,0,Permanece,48.25
+2842,0,Permanece,55.0
+2843,0,Permanece,50.0
+2844,0,Permanece,24.47
+2845,0,Permanece,9.16
+2846,0,Permanece,50.26
+2847,0,Permanece,51.69
+2848,0,Permanece,58.5
+2849,0,Permanece,10.7
+2850,0,Permanece,57.35
+2851,0,Permanece,5.11
+2852,0,Permanece,33.64
+2853,0,Permanece,36.24
+2854,0,Permanece,20.57
+2855,0,Permanece,23.95
+2856,0,Permanece,28.25
+2857,0,Permanece,3.42
+2858,0,Permanece,28.23
+2859,1,Fusión empresarial,94.1
+2860,0,Permanece,33.72
+2861,1,Competencia,77.2
+2862,0,Permanece,20.7
+2863,0,Permanece,18.31
+2864,0,Permanece,22.62
+2865,0,Permanece,58.42
+2866,0,Permanece,41.05
+2867,1,Cambio tecnológico,80.82
+2868,0,Permanece,45.03
+2869,0,Permanece,12.65
+2870,0,Permanece,53.64
+2871,0,Permanece,53.28
+2872,0,Permanece,48.81
+2873,0,Permanece,50.45
+2874,0,Permanece,9.75
+2875,0,Permanece,51.08
+2876,1,Precio,71.96
+2877,0,Permanece,3.11
+2878,0,Permanece,22.92
+2879,0,Permanece,20.9
+2880,0,Permanece,8.78
+2881,1,Precio,84.93
+2882,0,Permanece,57.19
+2883,1,Fusión empresarial,98.66
+2884,0,Permanece,37.77
+2885,1,Competencia,75.7
+2886,1,Cambio tecnológico,71.89
+2887,0,Permanece,10.01
+2888,0,Permanece,56.71
+2889,0,Permanece,17.87
+2890,0,Permanece,15.04
+2891,0,Permanece,26.52
+2892,0,Permanece,12.53
+2893,0,Permanece,57.27
+2894,0,Permanece,15.55
+2895,0,Permanece,4.82
+2896,0,Permanece,29.17
+2897,0,Permanece,49.39
+2898,0,Permanece,47.72
+2899,0,Permanece,51.01
+2900,0,Permanece,37.16
+2901,0,Permanece,32.25
+2902,0,Permanece,32.72
+2903,0,Permanece,27.2
+2904,0,Permanece,29.62
+2905,1,Precio,81.6
+2906,0,Permanece,31.13
+2907,0,Permanece,9.9
+2908,0,Permanece,51.67
+2909,0,Permanece,11.26
+2910,0,Permanece,58.75
+2911,0,Permanece,26.81
+2912,0,Permanece,52.64
+2913,0,Permanece,41.97
+2914,0,Permanece,52.63
+2915,0,Permanece,31.47
+2916,1,Competencia,81.14
+2917,0,Permanece,11.12
+2918,0,Permanece,9.1
+2919,0,Permanece,40.48
+2920,0,Permanece,12.72
+2921,0,Permanece,47.59
+2922,1,Competencia,94.88
+2923,0,Permanece,47.65
+2924,0,Permanece,14.2
+2925,0,Permanece,3.68
+2926,0,Permanece,48.96
+2927,0,Permanece,41.51
+2928,0,Permanece,38.99
+2929,0,Permanece,59.2
+2930,1,Calidad de servicio,96.71
+2931,0,Permanece,26.49
+2932,0,Permanece,40.67
+2933,1,Competencia,94.19
+2934,0,Permanece,38.94
+2935,1,Calidad de servicio,97.71
+2936,0,Permanece,51.03
+2937,0,Permanece,20.57
+2938,0,Permanece,27.12
+2939,0,Permanece,37.28
+2940,0,Permanece,23.32
+2941,0,Permanece,45.41
+2942,0,Permanece,52.61
+2943,0,Permanece,18.32
+2944,1,Precio,71.07
+2945,0,Permanece,42.31
+2946,1,Fusión empresarial,95.57
+2947,1,Precio,93.75
+2948,0,Permanece,31.93
+2949,0,Permanece,48.75
+2950,0,Permanece,55.13
+2951,0,Permanece,16.99
+2952,1,Precio,86.88
+2953,0,Permanece,21.92
+2954,0,Permanece,42.86
+2955,0,Permanece,44.07
+2956,1,Calidad de servicio,72.71
+2957,0,Permanece,10.44
+2958,1,Cambio tecnológico,94.94
+2959,0,Permanece,12.42
+2960,0,Permanece,31.98
+2961,0,Permanece,3.59
+2962,1,Cambio tecnológico,70.96
+2963,0,Permanece,20.03
+2964,0,Permanece,6.89
+2965,0,Permanece,3.64
+2966,0,Permanece,40.44
+2967,0,Permanece,15.72
+2968,1,Cambio tecnológico,76.24
+2969,1,Fusión empresarial,81.91
+2970,0,Permanece,28.91
+2971,0,Permanece,21.4
+2972,1,Precio,73.15
+2973,0,Permanece,33.61
+2974,0,Permanece,46.65
+2975,0,Permanece,9.12
+2976,0,Permanece,37.44
+2977,0,Permanece,40.26
+2978,0,Permanece,20.3
+2979,0,Permanece,46.86
+2980,0,Permanece,17.0
+2981,1,Cambio tecnológico,98.15
+2982,0,Permanece,14.55
+2983,0,Permanece,58.98
+2984,0,Permanece,54.62
+2985,0,Permanece,49.54
+2986,0,Permanece,48.3
+2987,0,Permanece,53.78
+2988,0,Permanece,49.26
+2989,0,Permanece,31.03
+2990,0,Permanece,33.61
+2991,0,Permanece,18.62
+2992,0,Permanece,5.84
+2993,0,Permanece,53.37
+2994,0,Permanece,23.67
+2995,0,Permanece,56.64
+2996,0,Permanece,43.48
+2997,0,Permanece,23.62
+2998,0,Permanece,8.82
+2999,0,Permanece,16.29
+3000,0,Permanece,11.85
+3001,1,Calidad de servicio,76.86
+3002,0,Permanece,21.46
+3003,0,Permanece,17.38
+3004,1,Precio,74.2
+3005,0,Permanece,57.62
+3006,1,Precio,78.8
+3007,1,Fusión empresarial,85.36
+3008,0,Permanece,5.23
+3009,0,Permanece,30.56
+3010,1,Cambio tecnológico,84.38
+3011,0,Permanece,53.89
+3012,0,Permanece,41.18
+3013,0,Permanece,57.72
+3014,0,Permanece,53.29
+3015,0,Permanece,25.75
+3016,0,Permanece,25.41
+3017,1,Precio,91.43
+3018,0,Permanece,12.03
+3019,0,Permanece,37.29
+3020,0,Permanece,15.05
+3021,0,Permanece,0.34
+3022,0,Permanece,20.81
+3023,1,Competencia,73.72
+3024,1,Fusión empresarial,91.45
+3025,0,Permanece,29.4
+3026,1,Competencia,78.06
+3027,0,Permanece,40.33
+3028,1,Cambio tecnológico,99.87
+3029,0,Permanece,0.03
+3030,1,Fusión empresarial,97.64
+3031,0,Permanece,21.91
+3032,0,Permanece,6.9
+3033,0,Permanece,15.23
+3034,1,Precio,88.96
+3035,1,Cambio tecnológico,80.67
+3036,0,Permanece,21.99
+3037,0,Permanece,17.32
+3038,0,Permanece,56.58
+3039,0,Permanece,51.47
+3040,0,Permanece,51.75
+3041,0,Permanece,17.95
+3042,1,Precio,75.96
+3043,0,Permanece,28.6
+3044,0,Permanece,18.16
+3045,0,Permanece,58.98
+3046,0,Permanece,57.31
+3047,0,Permanece,0.35
+3048,0,Permanece,18.18
+3049,0,Permanece,26.47
+3050,1,Precio,88.01
+3051,0,Permanece,3.68
+3052,0,Permanece,38.32
+3053,0,Permanece,28.98
+3054,0,Permanece,51.39
+3055,0,Permanece,31.1
+3056,1,Precio,73.69
+3057,1,Competencia,81.92
+3058,0,Permanece,40.95
+3059,0,Permanece,9.73
+3060,0,Permanece,39.93
+3061,0,Permanece,15.25
+3062,0,Permanece,47.13
+3063,0,Permanece,56.29
+3064,0,Permanece,9.78
+3065,0,Permanece,39.26
+3066,0,Permanece,29.5
+3067,1,Cambio tecnológico,93.67
+3068,1,Competencia,74.51
+3069,0,Permanece,19.16
+3070,0,Permanece,50.53
+3071,0,Permanece,32.03
+3072,1,Fusión empresarial,77.48
+3073,0,Permanece,27.09
+3074,1,Calidad de servicio,96.64
+3075,0,Permanece,39.31
+3076,0,Permanece,2.1
+3077,1,Precio,97.76
+3078,0,Permanece,18.24
+3079,0,Permanece,1.48
+3080,0,Permanece,40.2
+3081,1,Cambio tecnológico,94.91
+3082,0,Permanece,11.94
+3083,0,Permanece,46.34
+3084,0,Permanece,38.1
+3085,0,Permanece,7.89
+3086,0,Permanece,32.48
+3087,1,Precio,81.24
+3088,0,Permanece,33.85
+3089,0,Permanece,51.79
+3090,0,Permanece,47.28
+3091,0,Permanece,46.12
+3092,0,Permanece,43.4
+3093,1,Calidad de servicio,83.59
+3094,0,Permanece,29.98
+3095,0,Permanece,2.42
+3096,1,Fusión empresarial,97.74
+3097,0,Permanece,5.55
+3098,1,Cambio tecnológico,80.38
+3099,1,Competencia,73.82
+3100,0,Permanece,12.9
+3101,0,Permanece,29.84
+3102,0,Permanece,42.67
+3103,0,Permanece,36.53
+3104,0,Permanece,57.6
+3105,0,Permanece,28.6
+3106,0,Permanece,3.75
+3107,0,Permanece,7.15
+3108,0,Permanece,53.36
+3109,0,Permanece,42.03
+3110,0,Permanece,44.52
+3111,1,Precio,70.06
+3112,0,Permanece,43.66
+3113,0,Permanece,54.48
+3114,1,Competencia,83.12
+3115,0,Permanece,40.52
+3116,0,Permanece,11.22
+3117,0,Permanece,23.93
+3118,0,Permanece,31.29
+3119,0,Permanece,27.9
+3120,0,Permanece,20.57
+3121,0,Permanece,48.57
+3122,0,Permanece,9.78
+3123,0,Permanece,15.13
+3124,0,Permanece,3.06
+3125,0,Permanece,16.84
+3126,0,Permanece,54.67
+3127,0,Permanece,8.11
+3128,0,Permanece,56.08
+3129,0,Permanece,15.27
+3130,0,Permanece,25.82
+3131,0,Permanece,16.96
+3132,0,Permanece,49.47
+3133,1,Calidad de servicio,84.9
+3134,0,Permanece,26.79
+3135,0,Permanece,35.6
+3136,0,Permanece,2.57
+3137,0,Permanece,15.95
+3138,0,Permanece,57.28
+3139,0,Permanece,31.94
+3140,1,Competencia,83.84
+3141,0,Permanece,20.23
+3142,0,Permanece,28.83
+3143,0,Permanece,6.15
+3144,0,Permanece,48.64
+3145,0,Permanece,37.01
+3146,0,Permanece,34.39
+3147,0,Permanece,57.46
+3148,0,Permanece,18.13
+3149,0,Permanece,10.95
+3150,1,Calidad de servicio,72.28
+3151,0,Permanece,28.05
+3152,1,Cambio tecnológico,88.54
+3153,0,Permanece,19.61
+3154,0,Permanece,46.32
+3155,0,Permanece,2.16
+3156,0,Permanece,38.7
+3157,0,Permanece,6.97
+3158,1,Calidad de servicio,79.23
+3159,1,Fusión empresarial,79.12
+3160,0,Permanece,26.86
+3161,0,Permanece,13.0
+3162,0,Permanece,1.0
+3163,0,Permanece,3.08
+3164,0,Permanece,4.45
+3165,0,Permanece,41.41
+3166,1,Fusión empresarial,87.66
+3167,0,Permanece,7.95
+3168,1,Competencia,74.29
+3169,0,Permanece,27.78
+3170,0,Permanece,4.76
+3171,1,Cambio tecnológico,89.55
+3172,0,Permanece,19.14
+3173,0,Permanece,24.55
+3174,0,Permanece,52.79
+3175,0,Permanece,59.76
+3176,0,Permanece,1.35
+3177,0,Permanece,41.99
+3178,0,Permanece,54.31
+3179,0,Permanece,43.81
+3180,0,Permanece,36.7
+3181,0,Permanece,51.64
+3182,0,Permanece,27.21
+3183,0,Permanece,1.53
+3184,0,Permanece,29.23
+3185,0,Permanece,46.88
+3186,0,Permanece,23.01
+3187,0,Permanece,44.34
+3188,0,Permanece,36.97
+3189,0,Permanece,0.55
+3190,0,Permanece,49.15
+3191,0,Permanece,55.83
+3192,0,Permanece,52.44
+3193,0,Permanece,10.61
+3194,0,Permanece,49.72
+3195,0,Permanece,11.48
+3196,0,Permanece,22.3
+3197,1,Competencia,92.66
+3198,1,Fusión empresarial,92.39
+3199,0,Permanece,13.76
+3200,1,Cambio tecnológico,87.51
+3201,0,Permanece,37.54
+3202,0,Permanece,42.24
+3203,0,Permanece,39.05
+3204,0,Permanece,24.62
+3205,0,Permanece,19.77
+3206,0,Permanece,46.53
+3207,0,Permanece,27.61
+3208,0,Permanece,46.37
+3209,0,Permanece,2.02
+3210,0,Permanece,36.49
+3211,0,Permanece,14.85
+3212,0,Permanece,43.05
+3213,0,Permanece,58.74
+3214,0,Permanece,4.11
+3215,0,Permanece,17.2
+3216,0,Permanece,19.51
+3217,0,Permanece,24.9
+3218,0,Permanece,29.18
+3219,0,Permanece,17.55
+3220,0,Permanece,18.87
+3221,0,Permanece,24.92
+3222,0,Permanece,23.85
+3223,0,Permanece,30.21
+3224,0,Permanece,36.11
+3225,0,Permanece,1.16
+3226,0,Permanece,15.81
+3227,0,Permanece,10.36
+3228,0,Permanece,23.65
+3229,1,Cambio tecnológico,78.65
+3230,0,Permanece,12.0
+3231,0,Permanece,13.09
+3232,1,Cambio tecnológico,96.91
+3233,0,Permanece,46.13
+3234,0,Permanece,36.49
+3235,0,Permanece,59.53
+3236,0,Permanece,13.17
+3237,0,Permanece,35.98
+3238,1,Precio,84.48
+3239,0,Permanece,18.66
+3240,0,Permanece,0.5
+3241,1,Calidad de servicio,71.14
+3242,0,Permanece,48.82
+3243,0,Permanece,37.38
+3244,0,Permanece,12.91
+3245,0,Permanece,31.36
+3246,0,Permanece,40.11
+3247,0,Permanece,36.23
+3248,0,Permanece,40.37
+3249,1,Calidad de servicio,92.9
+3250,0,Permanece,17.47
+3251,0,Permanece,25.73
+3252,0,Permanece,4.57
+3253,0,Permanece,33.42
+3254,0,Permanece,56.24
+3255,0,Permanece,44.17
+3256,0,Permanece,49.23
+3257,1,Fusión empresarial,80.39
+3258,1,Precio,91.92
+3259,0,Permanece,21.57
+3260,1,Competencia,93.63
+3261,0,Permanece,31.17
+3262,0,Permanece,3.73
+3263,0,Permanece,11.5
+3264,0,Permanece,50.9
+3265,1,Fusión empresarial,94.7
+3266,0,Permanece,51.07
+3267,0,Permanece,41.16
+3268,0,Permanece,42.97
+3269,0,Permanece,49.72
+3270,0,Permanece,47.08
+3271,0,Permanece,25.34
+3272,0,Permanece,38.14
+3273,0,Permanece,56.93
+3274,0,Permanece,10.14
+3275,0,Permanece,59.44
+3276,0,Permanece,35.51
+3277,0,Permanece,1.31
+3278,0,Permanece,10.87
+3279,0,Permanece,0.03
+3280,0,Permanece,17.39
+3281,1,Calidad de servicio,76.89
+3282,0,Permanece,23.31
+3283,1,Cambio tecnológico,91.82
+3284,0,Permanece,45.22
+3285,0,Permanece,33.4
+3286,0,Permanece,3.32
+3287,0,Permanece,40.98
+3288,0,Permanece,42.48
+3289,0,Permanece,48.13
+3290,1,Competencia,90.28
+3291,0,Permanece,49.49
+3292,1,Fusión empresarial,71.42
+3293,0,Permanece,35.93
+3294,0,Permanece,40.75
+3295,0,Permanece,24.4
+3296,0,Permanece,40.62
+3297,0,Permanece,53.02
+3298,0,Permanece,37.37
+3299,1,Competencia,83.86
+3300,0,Permanece,7.65
+3301,0,Permanece,34.5
+3302,0,Permanece,29.78
+3303,0,Permanece,18.08
+3304,0,Permanece,43.82
+3305,0,Permanece,14.43
+3306,0,Permanece,54.04
+3307,1,Calidad de servicio,80.87
+3308,1,Cambio tecnológico,98.98
+3309,0,Permanece,36.09
+3310,0,Permanece,33.73
+3311,0,Permanece,15.5
+3312,1,Competencia,79.53
+3313,1,Calidad de servicio,73.14
+3314,0,Permanece,14.49
+3315,1,Fusión empresarial,78.22
+3316,0,Permanece,8.99
+3317,1,Fusión empresarial,82.96
+3318,0,Permanece,38.6
+3319,0,Permanece,47.72
+3320,0,Permanece,19.03
+3321,1,Fusión empresarial,92.51
+3322,0,Permanece,4.55
+3323,1,Competencia,92.6
+3324,1,Competencia,86.23
+3325,1,Cambio tecnológico,97.94
+3326,0,Permanece,47.91
+3327,0,Permanece,0.4
+3328,0,Permanece,11.97
+3329,0,Permanece,54.52
+3330,0,Permanece,27.43
+3331,1,Competencia,91.36
+3332,0,Permanece,48.65
+3333,1,Cambio tecnológico,79.47
+3334,0,Permanece,58.97
+3335,0,Permanece,57.0
+3336,0,Permanece,52.59
+3337,0,Permanece,40.11
+3338,0,Permanece,4.51
+3339,1,Competencia,83.88
+3340,0,Permanece,44.96
+3341,0,Permanece,55.63
+3342,0,Permanece,41.97
+3343,1,Precio,89.32
+3344,0,Permanece,25.76
+3345,0,Permanece,44.83
+3346,0,Permanece,14.81
+3347,1,Competencia,75.48
+3348,0,Permanece,30.15
+3349,0,Permanece,0.53
+3350,0,Permanece,32.52
+3351,1,Competencia,80.68
+3352,0,Permanece,12.43
+3353,0,Permanece,32.94
+3354,0,Permanece,45.48
+3355,0,Permanece,24.85
+3356,0,Permanece,24.37
+3357,0,Permanece,41.6
+3358,0,Permanece,55.63
+3359,1,Cambio tecnológico,75.97
+3360,1,Competencia,88.36
+3361,0,Permanece,19.17
+3362,0,Permanece,29.06
+3363,0,Permanece,7.49
+3364,0,Permanece,58.14
+3365,1,Competencia,95.91
+3366,1,Fusión empresarial,72.78
+3367,0,Permanece,43.9
+3368,1,Competencia,79.13
+3369,0,Permanece,43.59
+3370,0,Permanece,52.71
+3371,0,Permanece,8.02
+3372,0,Permanece,3.87
+3373,0,Permanece,25.31
+3374,0,Permanece,21.34
+3375,0,Permanece,25.33
+3376,0,Permanece,52.65
+3377,0,Permanece,35.37
+3378,1,Precio,99.72
+3379,0,Permanece,42.88
+3380,1,Calidad de servicio,96.58
+3381,0,Permanece,55.06
+3382,0,Permanece,54.54
+3383,0,Permanece,52.33
+3384,0,Permanece,9.87
+3385,0,Permanece,8.03
+3386,1,Precio,82.18
+3387,0,Permanece,18.54
+3388,0,Permanece,48.15
+3389,0,Permanece,1.45
+3390,0,Permanece,45.13
+3391,0,Permanece,4.52
+3392,0,Permanece,49.71
+3393,0,Permanece,22.4
+3394,0,Permanece,47.77
+3395,0,Permanece,35.33
+3396,1,Fusión empresarial,75.94
+3397,0,Permanece,56.95
+3398,1,Precio,81.59
+3399,0,Permanece,15.75
+3400,0,Permanece,0.58
+3401,0,Permanece,3.9
+3402,1,Calidad de servicio,70.43
+3403,1,Cambio tecnológico,85.85
+3404,0,Permanece,1.57
+3405,0,Permanece,3.49
+3406,0,Permanece,13.28
+3407,0,Permanece,55.39
+3408,0,Permanece,4.67
+3409,1,Fusión empresarial,79.56
+3410,0,Permanece,41.57
+3411,0,Permanece,6.93
+3412,1,Cambio tecnológico,90.09
+3413,0,Permanece,29.27
+3414,0,Permanece,13.1
+3415,0,Permanece,1.5
+3416,0,Permanece,53.36
+3417,0,Permanece,49.09
+3418,0,Permanece,52.99
+3419,0,Permanece,0.16
+3420,0,Permanece,45.6
+3421,0,Permanece,41.06
+3422,0,Permanece,58.74
+3423,0,Permanece,40.25
+3424,0,Permanece,23.41
+3425,0,Permanece,2.45
+3426,0,Permanece,44.74
+3427,0,Permanece,35.58
+3428,1,Competencia,83.71
+3429,0,Permanece,57.55
+3430,0,Permanece,27.49
+3431,0,Permanece,0.94
+3432,0,Permanece,21.67
+3433,0,Permanece,39.96
+3434,0,Permanece,55.93
+3435,0,Permanece,49.44
+3436,0,Permanece,27.17
+3437,0,Permanece,18.64
+3438,0,Permanece,2.13
+3439,0,Permanece,41.81
+3440,0,Permanece,17.83
+3441,0,Permanece,49.09
+3442,0,Permanece,31.37
+3443,1,Calidad de servicio,71.67
+3444,0,Permanece,55.08
+3445,0,Permanece,10.29
+3446,0,Permanece,5.07
+3447,0,Permanece,6.47
+3448,0,Permanece,43.47
+3449,0,Permanece,1.65
+3450,0,Permanece,30.32
+3451,0,Permanece,28.0
+3452,0,Permanece,25.41
+3453,0,Permanece,20.65
+3454,0,Permanece,7.22
+3455,0,Permanece,18.58
+3456,0,Permanece,12.72
+3457,1,Precio,93.98
+3458,0,Permanece,49.85
+3459,0,Permanece,46.02
+3460,1,Cambio tecnológico,93.35
+3461,1,Fusión empresarial,81.25
+3462,0,Permanece,5.94
+3463,0,Permanece,9.27
+3464,0,Permanece,47.5
+3465,0,Permanece,32.13
+3466,1,Calidad de servicio,94.73
+3467,1,Fusión empresarial,73.68
+3468,0,Permanece,39.12
+3469,0,Permanece,20.28
+3470,1,Competencia,89.84
+3471,0,Permanece,42.82
+3472,0,Permanece,15.02
+3473,0,Permanece,47.65
+3474,1,Fusión empresarial,79.66
+3475,0,Permanece,16.31
+3476,0,Permanece,46.29
+3477,0,Permanece,32.68
+3478,0,Permanece,57.96
+3479,0,Permanece,19.44
+3480,0,Permanece,20.45
+3481,0,Permanece,9.29
+3482,0,Permanece,31.52
+3483,0,Permanece,6.13
+3484,0,Permanece,25.08
+3485,0,Permanece,11.79
+3486,0,Permanece,1.4
+3487,0,Permanece,3.2
+3488,0,Permanece,13.5
+3489,0,Permanece,27.92
+3490,0,Permanece,47.84
+3491,0,Permanece,8.9
+3492,0,Permanece,56.97
+3493,0,Permanece,11.4
+3494,0,Permanece,32.82
+3495,0,Permanece,3.86
+3496,0,Permanece,44.46
+3497,0,Permanece,39.38
+3498,0,Permanece,9.0
+3499,0,Permanece,6.76
+3500,1,Competencia,94.33
+3501,0,Permanece,6.37
+3502,0,Permanece,3.42
+3503,0,Permanece,29.51
+3504,0,Permanece,40.01
+3505,1,Cambio tecnológico,84.76
+3506,0,Permanece,58.15
+3507,0,Permanece,24.5
+3508,0,Permanece,11.88
+3509,0,Permanece,58.46
+3510,0,Permanece,49.24
+3511,0,Permanece,1.27
+3512,0,Permanece,25.73
+3513,0,Permanece,2.38
+3514,1,Precio,90.63
+3515,0,Permanece,10.33
+3516,0,Permanece,16.76
+3517,0,Permanece,34.26
+3518,0,Permanece,54.39
+3519,0,Permanece,25.64
+3520,0,Permanece,54.55
+3521,0,Permanece,12.23
+3522,0,Permanece,39.03
+3523,0,Permanece,2.24
+3524,0,Permanece,47.71
+3525,1,Calidad de servicio,97.56
+3526,0,Permanece,28.18
+3527,0,Permanece,25.51
+3528,0,Permanece,39.74
+3529,0,Permanece,21.84
+3530,0,Permanece,26.84
+3531,0,Permanece,14.38
+3532,0,Permanece,20.45
+3533,0,Permanece,27.69
+3534,0,Permanece,26.73
+3535,0,Permanece,31.12
+3536,0,Permanece,10.23
+3537,0,Permanece,59.41
+3538,0,Permanece,57.52
+3539,0,Permanece,25.68
+3540,0,Permanece,0.81
+3541,0,Permanece,51.42
+3542,0,Permanece,22.05
+3543,1,Precio,90.59
+3544,0,Permanece,9.73
+3545,0,Permanece,47.1
+3546,0,Permanece,53.59
+3547,0,Permanece,30.69
+3548,0,Permanece,25.79
+3549,0,Permanece,4.07
+3550,0,Permanece,20.22
+3551,0,Permanece,28.85
+3552,0,Permanece,38.02
+3553,0,Permanece,28.27
+3554,0,Permanece,9.71
+3555,1,Competencia,72.78
+3556,0,Permanece,25.38
+3557,0,Permanece,11.33
+3558,0,Permanece,36.66
+3559,0,Permanece,20.8
+3560,0,Permanece,46.9
+3561,0,Permanece,38.12
+3562,0,Permanece,7.82
+3563,0,Permanece,50.24
+3564,0,Permanece,54.7
+3565,0,Permanece,31.96
+3566,0,Permanece,44.47
+3567,0,Permanece,33.14
+3568,0,Permanece,11.08
+3569,0,Permanece,19.23
+3570,0,Permanece,3.69
+3571,0,Permanece,46.88
+3572,0,Permanece,58.33
+3573,0,Permanece,6.58
+3574,0,Permanece,11.68
+3575,0,Permanece,19.25
+3576,0,Permanece,20.43
+3577,0,Permanece,26.76
+3578,0,Permanece,40.41
+3579,0,Permanece,57.77
+3580,0,Permanece,12.43
+3581,0,Permanece,32.74
+3582,0,Permanece,14.18
+3583,1,Competencia,93.54
+3584,0,Permanece,46.22
+3585,0,Permanece,21.87
+3586,0,Permanece,25.61
+3587,0,Permanece,8.2
+3588,0,Permanece,6.14
+3589,0,Permanece,24.28
+3590,0,Permanece,39.36
+3591,0,Permanece,5.12
+3592,0,Permanece,17.88
+3593,0,Permanece,14.22
+3594,0,Permanece,25.67
+3595,1,Competencia,96.56
+3596,0,Permanece,4.73
+3597,0,Permanece,11.72
+3598,1,Competencia,96.53
+3599,0,Permanece,21.94
+3600,0,Permanece,6.5
+3601,0,Permanece,25.44
+3602,0,Permanece,24.35
+3603,0,Permanece,3.33
+3604,0,Permanece,53.05
+3605,1,Precio,78.25
+3606,0,Permanece,12.96
+3607,0,Permanece,54.86
+3608,0,Permanece,37.68
+3609,0,Permanece,12.37
+3610,1,Competencia,96.85
+3611,1,Cambio tecnológico,81.4
+3612,1,Precio,82.16
+3613,0,Permanece,20.62
+3614,0,Permanece,40.8
+3615,0,Permanece,52.82
+3616,0,Permanece,38.95
+3617,0,Permanece,3.81
+3618,0,Permanece,42.0
+3619,0,Permanece,12.52
+3620,0,Permanece,40.57
+3621,0,Permanece,16.95
+3622,0,Permanece,1.59
+3623,0,Permanece,49.76
+3624,1,Competencia,89.44
+3625,0,Permanece,24.41
+3626,0,Permanece,57.67
+3627,0,Permanece,8.38
+3628,0,Permanece,47.17
+3629,0,Permanece,22.17
+3630,0,Permanece,32.85
+3631,0,Permanece,54.99
+3632,0,Permanece,18.41
+3633,0,Permanece,58.37
+3634,0,Permanece,40.73
+3635,0,Permanece,31.64
+3636,0,Permanece,1.11
+3637,0,Permanece,27.92
+3638,0,Permanece,34.98
+3639,1,Calidad de servicio,83.67
+3640,1,Precio,80.0
+3641,0,Permanece,51.45
+3642,1,Calidad de servicio,83.79
+3643,0,Permanece,26.18
+3644,0,Permanece,41.63
+3645,0,Permanece,31.31
+3646,0,Permanece,6.05
+3647,0,Permanece,50.67
+3648,0,Permanece,15.59
+3649,1,Precio,80.44
+3650,1,Cambio tecnológico,93.17
+3651,0,Permanece,26.04
+3652,0,Permanece,59.58
+3653,1,Cambio tecnológico,85.2
+3654,0,Permanece,58.72
+3655,0,Permanece,29.08
+3656,0,Permanece,53.77
+3657,0,Permanece,25.69
+3658,1,Calidad de servicio,81.29
+3659,0,Permanece,13.04
+3660,0,Permanece,5.45
+3661,0,Permanece,2.19
+3662,0,Permanece,0.57
+3663,0,Permanece,6.71
+3664,0,Permanece,19.38
+3665,1,Fusión empresarial,89.03
+3666,0,Permanece,56.11
+3667,0,Permanece,40.83
+3668,0,Permanece,29.26
+3669,1,Competencia,86.14
+3670,1,Fusión empresarial,85.73
+3671,0,Permanece,59.77
+3672,0,Permanece,34.16
+3673,0,Permanece,2.9
+3674,0,Permanece,44.75
+3675,0,Permanece,35.96
+3676,0,Permanece,58.48
+3677,0,Permanece,11.77
+3678,0,Permanece,4.77
+3679,1,Precio,91.53
+3680,0,Permanece,22.56
+3681,0,Permanece,44.35
+3682,0,Permanece,30.8
+3683,0,Permanece,54.04
+3684,0,Permanece,16.34
+3685,0,Permanece,57.43
+3686,0,Permanece,9.77
+3687,0,Permanece,27.72
+3688,0,Permanece,58.29
+3689,0,Permanece,11.56
+3690,1,Cambio tecnológico,93.36
+3691,0,Permanece,49.71
+3692,0,Permanece,51.93
+3693,0,Permanece,34.34
+3694,1,Fusión empresarial,82.87
+3695,0,Permanece,36.8
+3696,0,Permanece,59.45
+3697,0,Permanece,41.03
+3698,0,Permanece,47.66
+3699,0,Permanece,37.21
+3700,0,Permanece,59.08
+3701,0,Permanece,57.85
+3702,0,Permanece,39.61
+3703,0,Permanece,55.84
+3704,0,Permanece,0.46
+3705,0,Permanece,49.47
+3706,0,Permanece,36.85
+3707,0,Permanece,5.5
+3708,1,Precio,84.67
+3709,1,Cambio tecnológico,77.56
+3710,0,Permanece,17.54
+3711,0,Permanece,23.67
+3712,1,Precio,84.7
+3713,0,Permanece,47.14
+3714,0,Permanece,51.28
+3715,0,Permanece,41.74
+3716,0,Permanece,10.94
+3717,0,Permanece,24.29
+3718,0,Permanece,34.83
+3719,0,Permanece,20.83
+3720,0,Permanece,53.8
+3721,0,Permanece,36.49
+3722,0,Permanece,16.51
+3723,1,Cambio tecnológico,70.48
+3724,1,Precio,82.74
+3725,0,Permanece,37.4
+3726,0,Permanece,31.39
+3727,0,Permanece,27.94
+3728,0,Permanece,4.63
+3729,0,Permanece,42.14
+3730,0,Permanece,23.26
+3731,0,Permanece,58.22
+3732,0,Permanece,0.35
+3733,0,Permanece,18.08
+3734,0,Permanece,57.67
+3735,1,Competencia,79.57
+3736,0,Permanece,59.91
+3737,0,Permanece,18.25
+3738,0,Permanece,57.65
+3739,1,Calidad de servicio,75.37
+3740,0,Permanece,55.57
+3741,0,Permanece,32.85
+3742,0,Permanece,10.15
+3743,0,Permanece,50.41
+3744,0,Permanece,9.87
+3745,0,Permanece,0.34
+3746,1,Cambio tecnológico,86.44
+3747,0,Permanece,34.86
+3748,0,Permanece,13.08
+3749,0,Permanece,46.55
+3750,0,Permanece,22.39
+3751,0,Permanece,46.85
+3752,0,Permanece,13.04
+3753,0,Permanece,38.02
+3754,0,Permanece,10.39
+3755,0,Permanece,19.64
+3756,0,Permanece,16.49
+3757,0,Permanece,24.85
+3758,0,Permanece,38.36
+3759,1,Fusión empresarial,80.16
+3760,0,Permanece,48.3
+3761,0,Permanece,43.66
+3762,0,Permanece,49.87
+3763,0,Permanece,8.38
+3764,0,Permanece,55.89
+3765,0,Permanece,6.86
+3766,0,Permanece,28.3
+3767,0,Permanece,57.04
+3768,0,Permanece,40.56
+3769,0,Permanece,50.42
+3770,1,Precio,88.93
+3771,0,Permanece,0.87
+3772,0,Permanece,14.6
+3773,0,Permanece,24.44
+3774,0,Permanece,24.75
+3775,0,Permanece,36.9
+3776,0,Permanece,44.12
+3777,0,Permanece,48.34
+3778,0,Permanece,20.49
+3779,0,Permanece,10.74
+3780,0,Permanece,20.3
+3781,0,Permanece,1.59
+3782,0,Permanece,4.21
+3783,1,Fusión empresarial,72.85
+3784,0,Permanece,19.64
+3785,1,Fusión empresarial,96.81
+3786,0,Permanece,42.08
+3787,0,Permanece,33.74
+3788,0,Permanece,54.19
+3789,0,Permanece,46.09
+3790,0,Permanece,33.48
+3791,0,Permanece,51.03
+3792,0,Permanece,11.27
+3793,0,Permanece,5.76
+3794,0,Permanece,32.6
+3795,0,Permanece,26.23
+3796,0,Permanece,19.18
+3797,0,Permanece,23.23
+3798,0,Permanece,6.61
+3799,0,Permanece,36.45
+3800,0,Permanece,26.05
+3801,0,Permanece,43.7
+3802,1,Precio,99.96
+3803,0,Permanece,44.35
+3804,0,Permanece,12.14
+3805,1,Competencia,84.29
+3806,0,Permanece,18.92
+3807,0,Permanece,36.92
+3808,0,Permanece,8.34
+3809,0,Permanece,33.89
+3810,0,Permanece,59.12
+3811,1,Competencia,79.29
+3812,0,Permanece,43.39
+3813,0,Permanece,9.74
+3814,0,Permanece,12.7
+3815,0,Permanece,58.49
+3816,0,Permanece,46.73
+3817,0,Permanece,10.18
+3818,0,Permanece,21.06
+3819,0,Permanece,41.12
+3820,1,Competencia,74.22
+3821,1,Fusión empresarial,96.87
+3822,1,Fusión empresarial,74.53
+3823,0,Permanece,18.76
+3824,0,Permanece,53.41
+3825,0,Permanece,36.4
+3826,0,Permanece,37.04
+3827,0,Permanece,34.42
+3828,1,Calidad de servicio,77.96
+3829,0,Permanece,15.62
+3830,0,Permanece,9.67
+3831,0,Permanece,6.77
+3832,0,Permanece,10.2
+3833,0,Permanece,37.71
+3834,0,Permanece,38.75
+3835,1,Cambio tecnológico,73.94
+3836,0,Permanece,3.61
+3837,0,Permanece,48.6
+3838,0,Permanece,5.74
+3839,1,Competencia,85.54
+3840,0,Permanece,34.37
+3841,0,Permanece,32.47
+3842,0,Permanece,17.3
+3843,0,Permanece,2.53
+3844,1,Fusión empresarial,84.6
+3845,0,Permanece,0.88
+3846,0,Permanece,2.01
+3847,0,Permanece,13.82
+3848,1,Calidad de servicio,84.02
+3849,0,Permanece,39.42
+3850,0,Permanece,30.85
+3851,1,Precio,73.46
+3852,0,Permanece,55.96
+3853,0,Permanece,3.96
+3854,1,Fusión empresarial,79.81
+3855,0,Permanece,0.43
+3856,0,Permanece,59.09
+3857,0,Permanece,24.59
+3858,1,Calidad de servicio,70.31
+3859,0,Permanece,20.4
+3860,0,Permanece,13.25
+3861,1,Cambio tecnológico,74.96
+3862,0,Permanece,20.12
+3863,0,Permanece,47.55
+3864,0,Permanece,6.29
+3865,0,Permanece,50.42
+3866,0,Permanece,23.51
+3867,0,Permanece,5.22
+3868,0,Permanece,2.73
+3869,0,Permanece,5.48
+3870,0,Permanece,6.91
+3871,0,Permanece,35.22
+3872,0,Permanece,4.51
+3873,1,Competencia,89.78
+3874,0,Permanece,27.1
+3875,0,Permanece,6.44
+3876,0,Permanece,45.1
+3877,0,Permanece,36.2
+3878,1,Calidad de servicio,94.08
+3879,1,Calidad de servicio,96.34
+3880,1,Calidad de servicio,83.92
+3881,0,Permanece,44.82
+3882,1,Cambio tecnológico,93.98
+3883,1,Fusión empresarial,89.4
+3884,0,Permanece,24.48
+3885,0,Permanece,27.46
+3886,0,Permanece,23.19
+3887,0,Permanece,46.04
+3888,1,Cambio tecnológico,84.78
+3889,0,Permanece,20.84
+3890,0,Permanece,46.42
+3891,0,Permanece,10.66
+3892,0,Permanece,23.42
+3893,1,Cambio tecnológico,90.92
+3894,0,Permanece,41.54
+3895,0,Permanece,54.55
+3896,0,Permanece,47.65
+3897,0,Permanece,27.88
+3898,0,Permanece,30.5
+3899,0,Permanece,15.36
+3900,0,Permanece,16.47
+3901,0,Permanece,41.15
+3902,0,Permanece,22.99
+3903,0,Permanece,21.31
+3904,0,Permanece,45.14
+3905,0,Permanece,58.59
+3906,0,Permanece,43.56
+3907,0,Permanece,43.1
+3908,1,Competencia,72.24
+3909,0,Permanece,29.53
+3910,0,Permanece,19.25
+3911,0,Permanece,47.22
+3912,0,Permanece,18.33
+3913,0,Permanece,29.53
+3914,0,Permanece,42.48
+3915,0,Permanece,30.02
+3916,0,Permanece,38.01
+3917,0,Permanece,44.98
+3918,0,Permanece,6.79
+3919,0,Permanece,57.45
+3920,0,Permanece,35.29
+3921,0,Permanece,34.54
+3922,0,Permanece,14.15
+3923,0,Permanece,26.06
+3924,0,Permanece,14.63
+3925,0,Permanece,22.96
+3926,0,Permanece,47.41
+3927,0,Permanece,1.34
+3928,0,Permanece,9.5
+3929,0,Permanece,29.53
+3930,1,Cambio tecnológico,71.16
+3931,0,Permanece,4.79
+3932,0,Permanece,27.21
+3933,0,Permanece,31.65
+3934,0,Permanece,35.86
+3935,0,Permanece,26.84
+3936,0,Permanece,49.63
+3937,0,Permanece,18.49
+3938,0,Permanece,43.85
+3939,0,Permanece,18.08
+3940,0,Permanece,25.05
+3941,0,Permanece,34.17
+3942,0,Permanece,35.41
+3943,0,Permanece,23.83
+3944,1,Competencia,95.5
+3945,0,Permanece,52.18
+3946,0,Permanece,28.93
+3947,0,Permanece,9.99
+3948,0,Permanece,19.5
+3949,0,Permanece,39.7
+3950,0,Permanece,7.82
+3951,0,Permanece,29.07
+3952,0,Permanece,18.65
+3953,0,Permanece,47.21
+3954,0,Permanece,29.87
+3955,0,Permanece,41.02
+3956,1,Cambio tecnológico,80.57
+3957,1,Competencia,76.99
+3958,0,Permanece,12.58
+3959,0,Permanece,19.26
+3960,0,Permanece,28.5
+3961,0,Permanece,0.56
+3962,1,Calidad de servicio,72.21
+3963,0,Permanece,59.63
+3964,0,Permanece,30.76
+3965,1,Precio,94.58
+3966,0,Permanece,34.45
+3967,0,Permanece,20.87
+3968,0,Permanece,16.38
+3969,0,Permanece,12.9
+3970,0,Permanece,45.13
+3971,0,Permanece,20.86
+3972,0,Permanece,39.19
+3973,0,Permanece,25.94
+3974,0,Permanece,46.97
+3975,0,Permanece,48.31
+3976,0,Permanece,14.3
+3977,0,Permanece,45.32
+3978,0,Permanece,3.67
+3979,0,Permanece,2.29
+3980,0,Permanece,9.8
+3981,0,Permanece,14.3
+3982,0,Permanece,58.46
+3983,1,Cambio tecnológico,80.65
+3984,0,Permanece,17.09
+3985,1,Cambio tecnológico,93.76
+3986,0,Permanece,16.26
+3987,0,Permanece,19.62
+3988,0,Permanece,3.93
+3989,0,Permanece,39.38
+3990,0,Permanece,8.69
+3991,0,Permanece,1.51
+3992,0,Permanece,26.25
+3993,0,Permanece,47.09
+3994,0,Permanece,11.0
+3995,0,Permanece,22.09
+3996,0,Permanece,24.34
+3997,0,Permanece,51.28
+3998,0,Permanece,1.38
+3999,0,Permanece,15.39
+4000,0,Permanece,4.62
+4001,0,Permanece,3.08
+4002,1,Fusión empresarial,80.18
+4003,0,Permanece,42.36
+4004,0,Permanece,21.1
+4005,0,Permanece,52.27
+4006,0,Permanece,43.84
+4007,0,Permanece,53.7
+4008,0,Permanece,58.83
+4009,0,Permanece,12.62
+4010,0,Permanece,4.38
+4011,0,Permanece,32.23
+4012,0,Permanece,50.21
+4013,0,Permanece,42.82
+4014,0,Permanece,58.85
+4015,1,Cambio tecnológico,85.93
+4016,0,Permanece,28.24
+4017,0,Permanece,36.24
+4018,0,Permanece,21.3
+4019,0,Permanece,37.72
+4020,0,Permanece,26.85
+4021,0,Permanece,39.0
+4022,0,Permanece,10.88
+4023,1,Precio,70.12
+4024,1,Cambio tecnológico,72.36
+4025,0,Permanece,52.69
+4026,0,Permanece,57.65
+4027,0,Permanece,57.51
+4028,0,Permanece,35.82
+4029,0,Permanece,38.99
+4030,1,Fusión empresarial,78.83
+4031,0,Permanece,46.3
+4032,0,Permanece,48.69
+4033,0,Permanece,4.61
+4034,0,Permanece,54.54
+4035,0,Permanece,46.06
+4036,0,Permanece,37.26
+4037,1,Fusión empresarial,76.01
+4038,0,Permanece,45.38
+4039,0,Permanece,12.13
+4040,0,Permanece,32.91
+4041,0,Permanece,53.31
+4042,0,Permanece,15.86
+4043,1,Fusión empresarial,73.08
+4044,1,Fusión empresarial,80.54
+4045,0,Permanece,39.62
+4046,0,Permanece,41.79
+4047,1,Competencia,83.44
+4048,0,Permanece,49.35
+4049,0,Permanece,38.59
+4050,0,Permanece,44.02
+4051,0,Permanece,28.58
+4052,1,Cambio tecnológico,78.11
+4053,0,Permanece,25.65
+4054,0,Permanece,7.36
+4055,1,Fusión empresarial,86.98
+4056,0,Permanece,9.22
+4057,0,Permanece,58.93
+4058,0,Permanece,1.05
+4059,1,Fusión empresarial,80.79
+4060,0,Permanece,56.25
+4061,1,Fusión empresarial,80.77
+4062,0,Permanece,45.04
+4063,1,Calidad de servicio,88.95
+4064,0,Permanece,50.52
+4065,0,Permanece,17.39
+4066,1,Competencia,88.36
+4067,0,Permanece,11.27
+4068,1,Precio,87.5
+4069,0,Permanece,53.18
+4070,1,Calidad de servicio,88.73
+4071,0,Permanece,21.5
+4072,0,Permanece,9.26
+4073,0,Permanece,25.12
+4074,0,Permanece,21.9
+4075,0,Permanece,25.71
+4076,0,Permanece,29.14
+4077,0,Permanece,23.64
+4078,0,Permanece,14.14
+4079,1,Cambio tecnológico,84.84
+4080,0,Permanece,50.56
+4081,0,Permanece,0.06
+4082,1,Competencia,76.82
+4083,0,Permanece,11.14
+4084,0,Permanece,45.08
+4085,1,Cambio tecnológico,98.96
+4086,0,Permanece,14.68
+4087,0,Permanece,11.57
+4088,0,Permanece,29.88
+4089,0,Permanece,56.3
+4090,0,Permanece,41.87
+4091,0,Permanece,11.51
+4092,0,Permanece,13.95
+4093,0,Permanece,18.19
+4094,0,Permanece,47.05
+4095,0,Permanece,8.14
+4096,0,Permanece,19.06
+4097,0,Permanece,31.56
+4098,0,Permanece,55.51
+4099,0,Permanece,47.7
+4100,0,Permanece,37.47
+4101,0,Permanece,25.69
+4102,0,Permanece,6.65
+4103,0,Permanece,38.44
+4104,0,Permanece,1.17
+4105,0,Permanece,37.61
+4106,0,Permanece,33.59
+4107,0,Permanece,14.43
+4108,0,Permanece,46.93
+4109,1,Competencia,94.59
+4110,0,Permanece,2.95
+4111,1,Fusión empresarial,77.79
+4112,0,Permanece,47.76
+4113,0,Permanece,3.97
+4114,1,Competencia,95.63
+4115,0,Permanece,22.31
+4116,1,Fusión empresarial,96.61
+4117,0,Permanece,42.07
+4118,0,Permanece,30.65
+4119,0,Permanece,22.06
+4120,0,Permanece,24.86
+4121,1,Competencia,93.31
+4122,0,Permanece,22.07
+4123,1,Calidad de servicio,71.81
+4124,0,Permanece,40.76
+4125,0,Permanece,6.59
+4126,1,Precio,93.24
+4127,0,Permanece,29.28
+4128,0,Permanece,19.74
+4129,0,Permanece,4.98
+4130,0,Permanece,19.81
+4131,0,Permanece,18.71
+4132,0,Permanece,3.89
+4133,0,Permanece,43.15
+4134,1,Cambio tecnológico,80.22
+4135,0,Permanece,51.6
+4136,1,Precio,86.85
+4137,1,Competencia,88.02
+4138,0,Permanece,3.17
+4139,0,Permanece,22.92
+4140,0,Permanece,44.58
+4141,0,Permanece,40.26
+4142,0,Permanece,9.4
+4143,0,Permanece,54.43
+4144,0,Permanece,25.31
+4145,1,Precio,90.15
+4146,1,Precio,76.65
+4147,0,Permanece,16.91
+4148,0,Permanece,12.65
+4149,0,Permanece,38.11
+4150,1,Competencia,84.16
+4151,1,Cambio tecnológico,77.33
+4152,0,Permanece,46.34
+4153,0,Permanece,47.72
+4154,0,Permanece,51.0
+4155,0,Permanece,50.78
+4156,0,Permanece,21.13
+4157,0,Permanece,50.6
+4158,0,Permanece,9.11
+4159,0,Permanece,51.2
+4160,0,Permanece,51.98
+4161,0,Permanece,56.29
+4162,0,Permanece,39.16
+4163,0,Permanece,4.97
+4164,0,Permanece,50.18
+4165,1,Competencia,91.18
+4166,1,Fusión empresarial,77.51
+4167,1,Calidad de servicio,90.32
+4168,0,Permanece,29.56
+4169,0,Permanece,43.44
+4170,0,Permanece,21.58
+4171,0,Permanece,10.87
+4172,0,Permanece,54.59
+4173,0,Permanece,11.94
+4174,0,Permanece,30.51
+4175,0,Permanece,36.28
+4176,0,Permanece,1.07
+4177,0,Permanece,59.73
+4178,0,Permanece,51.14
+4179,0,Permanece,51.9
+4180,0,Permanece,47.02
+4181,0,Permanece,15.07
+4182,0,Permanece,8.98
+4183,1,Precio,73.99
+4184,0,Permanece,5.32
+4185,0,Permanece,55.23
+4186,0,Permanece,14.5
+4187,0,Permanece,39.94
+4188,1,Fusión empresarial,89.33
+4189,0,Permanece,39.53
+4190,1,Cambio tecnológico,73.31
+4191,0,Permanece,53.85
+4192,0,Permanece,20.36
+4193,0,Permanece,6.45
+4194,0,Permanece,48.44
+4195,0,Permanece,47.76
+4196,0,Permanece,8.36
+4197,0,Permanece,40.57
+4198,0,Permanece,20.13
+4199,0,Permanece,17.18
+4200,0,Permanece,39.51
+4201,0,Permanece,14.52
+4202,0,Permanece,34.4
+4203,1,Precio,70.88
+4204,0,Permanece,53.25
+4205,0,Permanece,42.07
+4206,0,Permanece,31.6
+4207,0,Permanece,24.43
+4208,0,Permanece,16.35
+4209,0,Permanece,11.1
+4210,0,Permanece,50.21
+4211,0,Permanece,29.48
+4212,0,Permanece,11.78
+4213,0,Permanece,29.34
+4214,0,Permanece,19.56
+4215,0,Permanece,35.25
+4216,0,Permanece,43.65
+4217,0,Permanece,52.59
+4218,0,Permanece,47.77
+4219,0,Permanece,27.7
+4220,0,Permanece,28.62
+4221,0,Permanece,23.84
+4222,0,Permanece,59.68
+4223,0,Permanece,59.3
+4224,0,Permanece,40.63
+4225,0,Permanece,12.15
+4226,1,Cambio tecnológico,85.41
+4227,0,Permanece,38.79
+4228,0,Permanece,2.44
+4229,0,Permanece,8.33
+4230,0,Permanece,11.87
+4231,1,Calidad de servicio,99.89
+4232,0,Permanece,4.66
+4233,1,Precio,78.46
+4234,0,Permanece,54.1
+4235,1,Fusión empresarial,93.53
+4236,0,Permanece,27.09
+4237,0,Permanece,28.78
+4238,0,Permanece,44.85
+4239,0,Permanece,20.92
+4240,1,Precio,91.73
+4241,1,Cambio tecnológico,93.62
+4242,0,Permanece,40.98
+4243,0,Permanece,35.04
+4244,0,Permanece,15.74
+4245,0,Permanece,32.31
+4246,1,Cambio tecnológico,85.4
+4247,0,Permanece,2.24
+4248,0,Permanece,8.28
+4249,0,Permanece,27.28
+4250,0,Permanece,3.79
+4251,0,Permanece,57.45
+4252,0,Permanece,1.15
+4253,0,Permanece,25.44
+4254,0,Permanece,3.03
+4255,0,Permanece,37.38
+4256,0,Permanece,35.02
+4257,0,Permanece,49.51
+4258,1,Cambio tecnológico,86.04
+4259,0,Permanece,25.41
+4260,0,Permanece,38.43
+4261,0,Permanece,10.93
+4262,0,Permanece,0.93
+4263,0,Permanece,3.06
+4264,0,Permanece,25.49
+4265,1,Precio,95.28
+4266,1,Calidad de servicio,76.08
+4267,0,Permanece,13.52
+4268,1,Fusión empresarial,90.07
+4269,0,Permanece,20.99
+4270,0,Permanece,31.12
+4271,1,Fusión empresarial,89.77
+4272,0,Permanece,47.3
+4273,0,Permanece,25.22
+4274,0,Permanece,7.09
+4275,0,Permanece,5.74
+4276,0,Permanece,50.79
+4277,0,Permanece,7.1
+4278,0,Permanece,52.18
+4279,0,Permanece,19.01
+4280,0,Permanece,3.22
+4281,0,Permanece,3.85
+4282,1,Competencia,79.38
+4283,0,Permanece,45.32
+4284,0,Permanece,58.38
+4285,0,Permanece,51.14
+4286,0,Permanece,14.29
+4287,1,Cambio tecnológico,88.36
+4288,0,Permanece,42.93
+4289,0,Permanece,40.18
+4290,0,Permanece,46.98
+4291,0,Permanece,19.6
+4292,0,Permanece,26.22
+4293,0,Permanece,58.73
+4294,0,Permanece,37.8
+4295,0,Permanece,27.63
+4296,0,Permanece,17.46
+4297,0,Permanece,59.81
+4298,0,Permanece,48.75
+4299,0,Permanece,2.32
+4300,0,Permanece,3.23
+4301,0,Permanece,16.89
+4302,0,Permanece,7.21
+4303,0,Permanece,31.25
+4304,0,Permanece,32.28
+4305,0,Permanece,20.91
+4306,0,Permanece,48.83
+4307,0,Permanece,47.29
+4308,0,Permanece,56.29
+4309,0,Permanece,19.14
+4310,0,Permanece,3.22
+4311,1,Calidad de servicio,85.12
+4312,0,Permanece,45.06
+4313,1,Precio,75.16
+4314,0,Permanece,53.03
+4315,0,Permanece,33.51
+4316,0,Permanece,31.2
+4317,0,Permanece,9.0
+4318,0,Permanece,9.65
+4319,1,Precio,94.22
+4320,0,Permanece,53.14
+4321,0,Permanece,47.64
+4322,0,Permanece,46.14
+4323,0,Permanece,10.8
+4324,0,Permanece,17.88
+4325,1,Calidad de servicio,95.41
+4326,0,Permanece,19.44
+4327,0,Permanece,24.97
+4328,0,Permanece,38.29
+4329,1,Competencia,89.15
+4330,0,Permanece,53.47
+4331,0,Permanece,2.19
+4332,0,Permanece,56.8
+4333,0,Permanece,59.55
+4334,1,Precio,93.18
+4335,0,Permanece,28.48
+4336,0,Permanece,10.89
+4337,0,Permanece,21.53
+4338,0,Permanece,21.2
+4339,0,Permanece,51.5
+4340,0,Permanece,30.01
+4341,0,Permanece,37.79
+4342,0,Permanece,12.84
+4343,0,Permanece,9.04
+4344,0,Permanece,52.73
+4345,1,Precio,93.14
+4346,0,Permanece,8.39
+4347,0,Permanece,52.69
+4348,0,Permanece,9.95
+4349,0,Permanece,18.09
+4350,0,Permanece,35.54
+4351,0,Permanece,7.01
+4352,1,Competencia,76.47
+4353,0,Permanece,30.35
+4354,0,Permanece,5.54
+4355,0,Permanece,18.09
+4356,0,Permanece,52.51
+4357,0,Permanece,46.88
+4358,0,Permanece,37.63
+4359,0,Permanece,17.01
+4360,0,Permanece,57.75
+4361,0,Permanece,0.91
+4362,0,Permanece,23.7
+4363,1,Fusión empresarial,98.56
+4364,0,Permanece,19.33
+4365,0,Permanece,15.59
+4366,0,Permanece,11.13
+4367,0,Permanece,6.98
+4368,1,Cambio tecnológico,81.6
+4369,0,Permanece,32.94
+4370,0,Permanece,59.09
+4371,0,Permanece,53.98
+4372,0,Permanece,9.98
+4373,0,Permanece,18.61
+4374,0,Permanece,54.88
+4375,0,Permanece,54.09
+4376,0,Permanece,57.46
+4377,0,Permanece,3.18
+4378,0,Permanece,44.62
+4379,0,Permanece,34.59
+4380,0,Permanece,29.22
+4381,0,Permanece,4.38
+4382,0,Permanece,23.72
+4383,0,Permanece,22.13
+4384,0,Permanece,42.92
+4385,0,Permanece,32.77
+4386,0,Permanece,56.2
+4387,0,Permanece,54.99
+4388,0,Permanece,40.45
+4389,0,Permanece,35.67
+4390,0,Permanece,43.36
+4391,0,Permanece,5.54
+4392,0,Permanece,11.52
+4393,0,Permanece,24.82
+4394,0,Permanece,20.81
+4395,0,Permanece,30.4
+4396,0,Permanece,31.14
+4397,0,Permanece,11.53
+4398,0,Permanece,28.86
+4399,0,Permanece,32.51
+4400,1,Competencia,93.3
+4401,0,Permanece,42.49
+4402,0,Permanece,28.32
+4403,1,Cambio tecnológico,89.29
+4404,0,Permanece,57.23
+4405,1,Calidad de servicio,84.37
+4406,1,Cambio tecnológico,93.96
+4407,0,Permanece,14.9
+4408,0,Permanece,50.18
+4409,1,Calidad de servicio,78.37
+4410,0,Permanece,38.89
+4411,0,Permanece,9.72
+4412,0,Permanece,55.32
+4413,0,Permanece,12.63
+4414,0,Permanece,42.24
+4415,1,Fusión empresarial,91.95
+4416,0,Permanece,59.69
+4417,0,Permanece,13.55
+4418,0,Permanece,30.52
+4419,0,Permanece,34.98
+4420,0,Permanece,46.24
+4421,0,Permanece,50.27
+4422,0,Permanece,17.34
+4423,0,Permanece,48.8
+4424,1,Cambio tecnológico,99.69
+4425,0,Permanece,9.41
+4426,1,Competencia,90.1
+4427,0,Permanece,17.85
+4428,1,Fusión empresarial,89.32
+4429,0,Permanece,25.34
+4430,0,Permanece,59.75
+4431,0,Permanece,48.53
+4432,0,Permanece,47.45
+4433,0,Permanece,6.45
+4434,0,Permanece,10.58
+4435,0,Permanece,37.89
+4436,0,Permanece,0.48
+4437,0,Permanece,50.91
+4438,0,Permanece,27.69
+4439,0,Permanece,33.36
+4440,0,Permanece,50.46
+4441,0,Permanece,23.43
+4442,0,Permanece,46.43
+4443,0,Permanece,59.87
+4444,0,Permanece,38.4
+4445,0,Permanece,47.39
+4446,0,Permanece,7.35
+4447,0,Permanece,43.42
+4448,0,Permanece,49.74
+4449,0,Permanece,17.67
+4450,0,Permanece,34.89
+4451,0,Permanece,28.9
+4452,0,Permanece,19.77
+4453,0,Permanece,11.71
+4454,1,Fusión empresarial,82.85
+4455,1,Competencia,99.28
+4456,0,Permanece,52.52
+4457,0,Permanece,15.47
+4458,0,Permanece,17.25
+4459,0,Permanece,40.36
+4460,0,Permanece,31.29
+4461,0,Permanece,49.16
+4462,0,Permanece,54.47
+4463,0,Permanece,56.65
+4464,0,Permanece,46.63
+4465,1,Cambio tecnológico,78.18
+4466,0,Permanece,10.3
+4467,0,Permanece,43.84
+4468,0,Permanece,38.22
+4469,1,Calidad de servicio,88.92
+4470,0,Permanece,16.65
+4471,0,Permanece,21.22
+4472,0,Permanece,32.76
+4473,0,Permanece,55.03
+4474,0,Permanece,50.43
+4475,0,Permanece,45.48
+4476,1,Competencia,75.47
+4477,0,Permanece,36.72
+4478,0,Permanece,30.99
+4479,0,Permanece,42.64
+4480,0,Permanece,33.81
+4481,0,Permanece,30.03
+4482,0,Permanece,6.5
+4483,0,Permanece,6.48
+4484,0,Permanece,40.12
+4485,0,Permanece,41.03
+4486,0,Permanece,38.29
+4487,0,Permanece,42.95
+4488,0,Permanece,6.02
+4489,0,Permanece,27.6
+4490,1,Fusión empresarial,86.51
+4491,0,Permanece,23.84
+4492,0,Permanece,46.11
+4493,0,Permanece,31.69
+4494,0,Permanece,13.45
+4495,0,Permanece,26.62
+4496,0,Permanece,20.95
+4497,1,Precio,86.16
+4498,0,Permanece,24.29
+4499,0,Permanece,27.0
+4500,0,Permanece,4.47
+4501,0,Permanece,33.94
+4502,0,Permanece,28.68
+4503,0,Permanece,54.98
+4504,1,Competencia,77.78
+4505,0,Permanece,36.16
+4506,0,Permanece,49.66
+4507,0,Permanece,42.9
+4508,0,Permanece,20.14
+4509,0,Permanece,22.69
+4510,0,Permanece,45.29
+4511,0,Permanece,22.62
+4512,0,Permanece,23.52
+4513,0,Permanece,39.55
+4514,0,Permanece,36.45
+4515,0,Permanece,35.53
+4516,1,Competencia,98.29
+4517,0,Permanece,12.85
+4518,0,Permanece,21.0
+4519,0,Permanece,6.76
+4520,0,Permanece,49.12
+4521,0,Permanece,37.37
+4522,0,Permanece,40.24
+4523,0,Permanece,43.41
+4524,0,Permanece,48.72
+4525,0,Permanece,4.65
+4526,0,Permanece,48.15
+4527,0,Permanece,20.61
+4528,1,Fusión empresarial,91.1
+4529,1,Fusión empresarial,78.43
+4530,1,Competencia,88.94
+4531,1,Cambio tecnológico,87.92
+4532,0,Permanece,47.47
+4533,0,Permanece,57.27
+4534,0,Permanece,35.69
+4535,0,Permanece,26.07
+4536,1,Cambio tecnológico,93.6
+4537,0,Permanece,31.46
+4538,1,Precio,93.32
+4539,0,Permanece,41.91
+4540,0,Permanece,20.68
+4541,1,Calidad de servicio,77.23
+4542,0,Permanece,34.71
+4543,0,Permanece,8.69
+4544,0,Permanece,53.42
+4545,0,Permanece,19.84
+4546,0,Permanece,31.78
+4547,0,Permanece,2.92
+4548,0,Permanece,0.72
+4549,0,Permanece,19.59
+4550,0,Permanece,45.07
+4551,1,Competencia,87.48
+4552,0,Permanece,49.48
+4553,1,Cambio tecnológico,81.87
+4554,1,Cambio tecnológico,72.4
+4555,0,Permanece,1.05
+4556,0,Permanece,5.26
+4557,0,Permanece,41.84
+4558,0,Permanece,29.16
+4559,0,Permanece,25.73
+4560,0,Permanece,11.46
+4561,0,Permanece,10.42
+4562,0,Permanece,15.52
+4563,0,Permanece,24.14
+4564,0,Permanece,55.89
+4565,0,Permanece,47.46
+4566,0,Permanece,10.7
+4567,0,Permanece,31.42
+4568,0,Permanece,3.66
+4569,0,Permanece,23.02
+4570,0,Permanece,58.26
+4571,0,Permanece,26.27
+4572,1,Calidad de servicio,74.23
+4573,0,Permanece,47.47
+4574,0,Permanece,39.09
+4575,0,Permanece,3.56
+4576,0,Permanece,33.23
+4577,0,Permanece,0.31
+4578,0,Permanece,38.83
+4579,0,Permanece,59.74
+4580,1,Fusión empresarial,99.26
+4581,0,Permanece,19.27
+4582,0,Permanece,12.89
+4583,0,Permanece,34.12
+4584,0,Permanece,39.65
+4585,0,Permanece,18.67
+4586,0,Permanece,50.58
+4587,0,Permanece,38.53
+4588,0,Permanece,55.54
+4589,0,Permanece,41.11
+4590,0,Permanece,24.34
+4591,1,Competencia,75.64
+4592,0,Permanece,49.86
+4593,0,Permanece,18.13
+4594,0,Permanece,51.71
+4595,1,Precio,81.42
+4596,0,Permanece,30.47
+4597,1,Calidad de servicio,92.08
+4598,0,Permanece,8.58
+4599,0,Permanece,20.01
+4600,0,Permanece,46.67
+4601,0,Permanece,5.96
+4602,0,Permanece,22.0
+4603,0,Permanece,41.62
+4604,0,Permanece,3.89
+4605,0,Permanece,15.94
+4606,0,Permanece,21.73
+4607,1,Fusión empresarial,78.42
+4608,0,Permanece,57.08
+4609,0,Permanece,43.43
+4610,1,Fusión empresarial,72.15
+4611,1,Fusión empresarial,71.15
+4612,0,Permanece,12.74
+4613,0,Permanece,41.67
+4614,0,Permanece,52.59
+4615,0,Permanece,55.97
+4616,1,Fusión empresarial,93.16
+4617,0,Permanece,48.77
+4618,0,Permanece,12.66
+4619,0,Permanece,38.93
+4620,1,Precio,80.21
+4621,0,Permanece,27.15
+4622,0,Permanece,5.77
+4623,0,Permanece,6.4
+4624,0,Permanece,2.58
+4625,1,Fusión empresarial,76.51
+4626,0,Permanece,24.1
+4627,0,Permanece,35.93
+4628,0,Permanece,28.47
+4629,0,Permanece,8.82
+4630,0,Permanece,2.74
+4631,0,Permanece,3.7
+4632,0,Permanece,39.34
+4633,1,Calidad de servicio,82.6
+4634,1,Fusión empresarial,78.1
+4635,1,Precio,74.66
+4636,1,Fusión empresarial,97.7
+4637,0,Permanece,35.14
+4638,0,Permanece,29.41
+4639,0,Permanece,15.18
+4640,0,Permanece,21.87
+4641,0,Permanece,55.99
+4642,0,Permanece,9.45
+4643,0,Permanece,7.72
+4644,0,Permanece,56.37
+4645,1,Precio,89.72
+4646,1,Fusión empresarial,73.79
+4647,0,Permanece,56.18
+4648,0,Permanece,27.46
+4649,0,Permanece,18.21
+4650,1,Competencia,89.09
+4651,0,Permanece,1.88
+4652,0,Permanece,22.18
+4653,0,Permanece,51.49
+4654,0,Permanece,6.22
+4655,0,Permanece,52.45
+4656,1,Precio,80.69
+4657,0,Permanece,26.19
+4658,0,Permanece,55.01
+4659,0,Permanece,25.71
+4660,0,Permanece,33.2
+4661,0,Permanece,46.49
+4662,0,Permanece,22.79
+4663,0,Permanece,12.57
+4664,0,Permanece,43.98
+4665,0,Permanece,52.59
+4666,0,Permanece,20.3
+4667,1,Fusión empresarial,72.01
+4668,0,Permanece,26.1
+4669,0,Permanece,58.79
+4670,0,Permanece,32.5
+4671,1,Precio,84.66
+4672,0,Permanece,30.08
+4673,1,Precio,83.54
+4674,0,Permanece,40.57
+4675,0,Permanece,25.43
+4676,0,Permanece,18.01
+4677,1,Fusión empresarial,95.87
+4678,0,Permanece,49.46
+4679,0,Permanece,6.38
+4680,0,Permanece,27.49
+4681,0,Permanece,38.01
+4682,0,Permanece,2.35
+4683,0,Permanece,11.73
+4684,0,Permanece,13.52
+4685,0,Permanece,8.41
+4686,0,Permanece,4.22
+4687,0,Permanece,10.04
+4688,0,Permanece,57.62
+4689,1,Fusión empresarial,70.9
+4690,0,Permanece,32.54
+4691,0,Permanece,1.84
+4692,0,Permanece,38.18
+4693,0,Permanece,38.07
+4694,0,Permanece,42.35
+4695,0,Permanece,1.9
+4696,0,Permanece,58.25
+4697,0,Permanece,9.74
+4698,0,Permanece,25.42
+4699,0,Permanece,59.5
+4700,0,Permanece,43.85
+4701,1,Precio,99.71
+4702,1,Calidad de servicio,98.67
+4703,0,Permanece,45.5
+4704,1,Competencia,93.44
+4705,1,Cambio tecnológico,83.01
+4706,1,Precio,71.83
+4707,0,Permanece,5.14
+4708,0,Permanece,50.06
+4709,0,Permanece,15.63
+4710,0,Permanece,43.85
+4711,0,Permanece,16.47
+4712,1,Precio,99.25
+4713,0,Permanece,59.21
+4714,0,Permanece,16.23
+4715,0,Permanece,50.76
+4716,0,Permanece,19.61
+4717,1,Competencia,76.46
+4718,0,Permanece,51.84
+4719,0,Permanece,21.03
+4720,0,Permanece,41.74
+4721,0,Permanece,12.73
+4722,0,Permanece,8.79
+4723,1,Fusión empresarial,87.57
+4724,0,Permanece,36.58
+4725,0,Permanece,17.43
+4726,0,Permanece,11.61
+4727,0,Permanece,34.28
+4728,0,Permanece,58.01
+4729,1,Fusión empresarial,82.65
+4730,0,Permanece,48.69
+4731,0,Permanece,21.87
+4732,0,Permanece,41.73
+4733,0,Permanece,13.87
+4734,0,Permanece,23.88
+4735,1,Calidad de servicio,75.53
+4736,0,Permanece,3.32
+4737,0,Permanece,27.64
+4738,0,Permanece,32.74
+4739,1,Calidad de servicio,99.79
+4740,0,Permanece,19.5
+4741,0,Permanece,8.92
+4742,0,Permanece,52.02
+4743,1,Fusión empresarial,70.16
+4744,0,Permanece,21.77
+4745,0,Permanece,40.15
+4746,0,Permanece,4.11
+4747,0,Permanece,31.9
+4748,0,Permanece,6.81
+4749,0,Permanece,14.84
+4750,0,Permanece,17.56
+4751,0,Permanece,20.42
+4752,0,Permanece,31.69
+4753,0,Permanece,42.98
+4754,0,Permanece,35.45
+4755,0,Permanece,41.64
+4756,0,Permanece,9.29
+4757,0,Permanece,41.11
+4758,1,Competencia,73.46
+4759,0,Permanece,32.79
+4760,0,Permanece,43.04
+4761,0,Permanece,53.86
+4762,0,Permanece,10.53
+4763,1,Cambio tecnológico,76.06
+4764,0,Permanece,11.44
+4765,1,Fusión empresarial,83.96
+4766,0,Permanece,40.8
+4767,0,Permanece,6.11
+4768,0,Permanece,48.05
+4769,0,Permanece,44.55
+4770,0,Permanece,29.75
+4771,0,Permanece,40.85
+4772,1,Precio,78.35
+4773,0,Permanece,27.87
+4774,0,Permanece,49.03
+4775,0,Permanece,41.99
+4776,0,Permanece,52.76
+4777,0,Permanece,13.44
+4778,0,Permanece,37.0
+4779,0,Permanece,56.81
+4780,0,Permanece,16.48
+4781,0,Permanece,49.4
+4782,0,Permanece,13.36
+4783,0,Permanece,31.76
+4784,0,Permanece,27.04
+4785,0,Permanece,9.15
+4786,1,Precio,97.44
+4787,0,Permanece,42.87
+4788,0,Permanece,59.34
+4789,0,Permanece,51.38
+4790,0,Permanece,38.32
+4791,0,Permanece,5.87
+4792,1,Cambio tecnológico,97.4
+4793,1,Cambio tecnológico,78.67
+4794,0,Permanece,57.26
+4795,0,Permanece,53.65
+4796,0,Permanece,47.49
+4797,0,Permanece,20.7
+4798,0,Permanece,44.92
+4799,0,Permanece,38.75
+4800,0,Permanece,4.2
+4801,0,Permanece,17.07
+4802,0,Permanece,19.11
+4803,0,Permanece,0.17
+4804,0,Permanece,29.48
+4805,0,Permanece,55.37
+4806,0,Permanece,55.79
+4807,0,Permanece,56.41
+4808,1,Fusión empresarial,72.73
+4809,0,Permanece,38.13
+4810,0,Permanece,18.82
+4811,0,Permanece,46.05
+4812,1,Precio,79.98
+4813,0,Permanece,43.07
+4814,1,Competencia,80.14
+4815,0,Permanece,36.43
+4816,0,Permanece,50.32
+4817,0,Permanece,40.79
+4818,0,Permanece,51.95
+4819,0,Permanece,1.24
+4820,0,Permanece,43.52
+4821,0,Permanece,23.83
+4822,0,Permanece,0.45
+4823,0,Permanece,13.98
+4824,0,Permanece,49.59
+4825,0,Permanece,55.65
+4826,1,Calidad de servicio,91.82
+4827,0,Permanece,29.7
+4828,0,Permanece,15.12
+4829,0,Permanece,4.11
+4830,0,Permanece,34.03
+4831,0,Permanece,43.9
+4832,0,Permanece,34.78
+4833,0,Permanece,15.66
+4834,0,Permanece,39.95
+4835,0,Permanece,57.8
+4836,0,Permanece,28.67
+4837,0,Permanece,42.15
+4838,0,Permanece,34.24
+4839,0,Permanece,14.41
+4840,1,Competencia,90.95
+4841,0,Permanece,5.36
+4842,0,Permanece,14.35
+4843,1,Competencia,78.39
+4844,0,Permanece,30.36
+4845,0,Permanece,11.48
+4846,0,Permanece,56.29
+4847,0,Permanece,40.6
+4848,0,Permanece,29.38
+4849,0,Permanece,59.2
+4850,0,Permanece,46.86
+4851,0,Permanece,49.42
+4852,0,Permanece,56.14
+4853,0,Permanece,43.56
+4854,0,Permanece,25.49
+4855,0,Permanece,23.77
+4856,0,Permanece,16.06
+4857,0,Permanece,51.93
+4858,0,Permanece,27.57
+4859,0,Permanece,18.13
+4860,1,Competencia,95.19
+4861,0,Permanece,46.54
+4862,0,Permanece,59.19
+4863,0,Permanece,34.16
+4864,0,Permanece,9.4
+4865,1,Calidad de servicio,91.82
+4866,0,Permanece,50.17
+4867,0,Permanece,23.91
+4868,0,Permanece,31.6
+4869,0,Permanece,12.49
+4870,0,Permanece,58.76
+4871,0,Permanece,27.76
+4872,0,Permanece,45.49
+4873,1,Cambio tecnológico,83.76
+4874,1,Precio,75.51
+4875,0,Permanece,44.58
+4876,0,Permanece,29.72
+4877,0,Permanece,45.95
+4878,0,Permanece,15.22
+4879,0,Permanece,35.65
+4880,0,Permanece,21.61
+4881,0,Permanece,27.28
+4882,0,Permanece,11.78
+4883,0,Permanece,32.76
+4884,0,Permanece,22.6
+4885,1,Fusión empresarial,94.13
+4886,0,Permanece,57.05
+4887,0,Permanece,13.18
+4888,1,Calidad de servicio,85.4
+4889,0,Permanece,54.95
+4890,0,Permanece,9.18
+4891,0,Permanece,29.12
+4892,0,Permanece,49.37
+4893,0,Permanece,32.91
+4894,0,Permanece,17.22
+4895,0,Permanece,3.75
+4896,0,Permanece,1.88
+4897,1,Precio,72.14
+4898,0,Permanece,38.52
+4899,0,Permanece,15.02
+4900,0,Permanece,4.47
+4901,0,Permanece,26.99
+4902,0,Permanece,35.38
+4903,0,Permanece,22.06
+4904,0,Permanece,16.16
+4905,0,Permanece,5.87
+4906,0,Permanece,36.55
+4907,0,Permanece,12.03
+4908,1,Precio,72.12
+4909,0,Permanece,12.49
+4910,0,Permanece,8.79
+4911,0,Permanece,1.84
+4912,0,Permanece,29.66
+4913,0,Permanece,46.24
+4914,0,Permanece,57.26
+4915,1,Calidad de servicio,77.66
+4916,0,Permanece,15.95
+4917,0,Permanece,40.82
+4918,0,Permanece,19.63
+4919,0,Permanece,52.92
+4920,0,Permanece,2.97
+4921,0,Permanece,8.14
+4922,0,Permanece,34.37
+4923,0,Permanece,30.58
+4924,0,Permanece,12.87
+4925,0,Permanece,18.36
+4926,0,Permanece,41.91
+4927,0,Permanece,43.52
+4928,0,Permanece,26.71
+4929,1,Fusión empresarial,84.84
+4930,0,Permanece,54.81
+4931,1,Cambio tecnológico,91.16
+4932,0,Permanece,44.97
+4933,0,Permanece,33.6
+4934,0,Permanece,45.96
+4935,0,Permanece,54.11
+4936,0,Permanece,49.23
+4937,0,Permanece,25.64
+4938,0,Permanece,57.86
+4939,1,Fusión empresarial,89.24
+4940,0,Permanece,57.71
+4941,0,Permanece,5.41
+4942,0,Permanece,31.89
+4943,0,Permanece,52.19
+4944,0,Permanece,45.65
+4945,0,Permanece,50.39
+4946,0,Permanece,52.61
+4947,0,Permanece,12.56
+4948,0,Permanece,0.94
+4949,1,Precio,73.21
+4950,0,Permanece,12.31
+4951,0,Permanece,45.55
+4952,0,Permanece,13.36
+4953,0,Permanece,26.53
+4954,0,Permanece,26.78
+4955,0,Permanece,20.76
+4956,0,Permanece,21.76
+4957,1,Fusión empresarial,74.1
+4958,0,Permanece,11.3
+4959,0,Permanece,55.7
+4960,1,Competencia,77.74
+4961,1,Competencia,85.0
+4962,0,Permanece,38.56
+4963,0,Permanece,21.02
+4964,0,Permanece,47.07
+4965,0,Permanece,19.77
+4966,0,Permanece,48.33
+4967,0,Permanece,28.35
+4968,0,Permanece,31.83
+4969,0,Permanece,0.3
+4970,0,Permanece,36.78
+4971,0,Permanece,29.43
+4972,0,Permanece,8.39
+4973,0,Permanece,17.64
+4974,0,Permanece,53.3
+4975,1,Precio,98.76
+4976,0,Permanece,36.66
+4977,0,Permanece,15.49
+4978,1,Cambio tecnológico,77.76
+4979,0,Permanece,0.3
+4980,0,Permanece,54.19
+4981,0,Permanece,54.21
+4982,1,Fusión empresarial,70.4
+4983,0,Permanece,29.19
+4984,0,Permanece,45.28
+4985,0,Permanece,26.36
+4986,1,Precio,89.68
+4987,1,Cambio tecnológico,79.14
+4988,0,Permanece,10.38
+4989,0,Permanece,43.88
+4990,0,Permanece,37.47
+4991,0,Permanece,39.29
+4992,1,Competencia,77.98
+4993,0,Permanece,10.32
+4994,0,Permanece,7.26
+4995,1,Precio,73.86
+4996,0,Permanece,17.6
+4997,0,Permanece,12.02
+4998,0,Permanece,2.57
+4999,1,Precio,74.77
+5000,0,Permanece,39.03
